@@ -1,116 +1,116 @@
-function _0x21f3() {
-  const _0xdece5f = ["integrity", "addedNodes", "1481884FkjzuD", "querySelectorAll", "9iCgBjo", "createElement", "rel", "2085405BGCshT", "2717rdMAyN", "32268WLtXrU", 'link[rel="modulepreload"]', "5LYtkbJ", "href", "childList", "574060iszXLS", "3NOnbEJ", "link", "observe", "include", "referrerPolicy", "3240888XbbSax", "tagName", "crossOrigin", "22jPhgAy", "2Ghdlto", "credentials", "14148DGZhbI", "462262VlyIvI", "supports", "modulepreload"];
-  _0x21f3 = function() {
-    return _0xdece5f;
+function _0x62d4() {
+  const _0x33baa1 = ["9962ijnyNg", "credentials", "282HUtynr", "type", "integrity", "addedNodes", "href", "anonymous", "link", "omit", "crossOrigin", "1470360ctUWFg", "childList", "supports", "6091430Lyutso", "rel", "createElement", "3498920fkusnT", "same-origin", "include", "tagName", "LINK", "184032NrqVJT", "9majZnn", "modulepreload", "1201885sApSDP", "3551030GjstbX", "7UkXTSk", "referrerPolicy"];
+  _0x62d4 = function() {
+    return _0x33baa1;
   };
-  return _0x21f3();
+  return _0x62d4();
 }
-function _0x19af(_0x522f63, _0x1bf254) {
-  _0x522f63 = _0x522f63 - 146;
-  const _0x21f3cd = _0x21f3();
-  let _0x19af4b = _0x21f3cd[_0x522f63];
-  return _0x19af4b;
+function _0x274a(_0x1bd587, _0x2620ca) {
+  _0x1bd587 = _0x1bd587 - 132;
+  const _0x62d42b = _0x62d4();
+  let _0x274a99 = _0x62d42b[_0x1bd587];
+  return _0x274a99;
 }
-(function(_0xcdfbb0, _0x4e6ea8) {
-  const _0x557f3a = _0x19af, _0x481218 = _0xcdfbb0();
+(function(_0x5e7d78, _0x3003ab) {
+  const _0x3f58b2 = _0x274a, _0x51f825 = _0x5e7d78();
   while (!![]) {
     try {
-      const _0x7a76c8 = parseInt(_0x557f3a(164)) / 1 * (parseInt(_0x557f3a(167)) / 2) + parseInt(_0x557f3a(155)) / 3 * (parseInt(_0x557f3a(172)) / 4) + -parseInt(_0x557f3a(151)) / 5 * (parseInt(_0x557f3a(149)) / 6) + parseInt(_0x557f3a(147)) / 7 + parseInt(_0x557f3a(160)) / 8 * (-parseInt(_0x557f3a(174)) / 9) + parseInt(_0x557f3a(154)) / 10 * (-parseInt(_0x557f3a(163)) / 11) + -parseInt(_0x557f3a(166)) / 12 * (parseInt(_0x557f3a(148)) / 13);
-      if (_0x7a76c8 === _0x4e6ea8) break;
-      else _0x481218["push"](_0x481218["shift"]());
-    } catch (_0x1fdc3c) {
-      _0x481218["push"](_0x481218["shift"]());
+      const _0x29b134 = parseInt(_0x3f58b2(137)) / 1 + parseInt(_0x3f58b2(141)) / 2 * (-parseInt(_0x3f58b2(143)) / 3) + -parseInt(_0x3f58b2(152)) / 4 + -parseInt(_0x3f58b2(138)) / 5 + -parseInt(_0x3f58b2(134)) / 6 + parseInt(_0x3f58b2(139)) / 7 * (parseInt(_0x3f58b2(158)) / 8) + parseInt(_0x3f58b2(135)) / 9 * (parseInt(_0x3f58b2(155)) / 10);
+      if (_0x29b134 === _0x3003ab) break;
+      else _0x51f825["push"](_0x51f825["shift"]());
+    } catch (_0x31ecd4) {
+      _0x51f825["push"](_0x51f825["shift"]());
     }
   }
-})(_0x21f3, 358936), (function polyfill() {
-  const _0x25e244 = _0x19af, _0x55a676 = document[_0x25e244(175)](_0x25e244(156))["relList"];
-  if (_0x55a676 && _0x55a676[_0x25e244(168)] && _0x55a676["supports"]("modulepreload")) return;
-  for (const _0xf8edfc of document[_0x25e244(173)](_0x25e244(150))) {
-    _0x6c88f8(_0xf8edfc);
+})(_0x62d4, 671711), (function polyfill() {
+  const _0x15df6c = _0x274a, _0x2e1756 = document[_0x15df6c(157)](_0x15df6c(149))["relList"];
+  if (_0x2e1756 && _0x2e1756[_0x15df6c(154)] && _0x2e1756[_0x15df6c(154)]("modulepreload")) return;
+  for (const _0x56ae11 of document["querySelectorAll"]('link[rel="modulepreload"]')) {
+    _0x1abbb1(_0x56ae11);
   }
-  new MutationObserver((_0x4c53c) => {
-    const _0x2ebd12 = _0x25e244;
-    for (const _0x1b6d94 of _0x4c53c) {
-      if (_0x1b6d94["type"] !== _0x2ebd12(153)) continue;
-      for (const _0x13856f of _0x1b6d94[_0x2ebd12(171)]) {
-        if (_0x13856f[_0x2ebd12(161)] === "LINK" && _0x13856f[_0x2ebd12(146)] === _0x2ebd12(169)) _0x6c88f8(_0x13856f);
+  new MutationObserver((_0x2e3fc5) => {
+    const _0x51b18b = _0x15df6c;
+    for (const _0x2dd4d7 of _0x2e3fc5) {
+      if (_0x2dd4d7[_0x51b18b(144)] !== _0x51b18b(153)) continue;
+      for (const _0x2fb96f of _0x2dd4d7[_0x51b18b(146)]) {
+        if (_0x2fb96f[_0x51b18b(132)] === _0x51b18b(133) && _0x2fb96f[_0x51b18b(156)] === _0x51b18b(136)) _0x1abbb1(_0x2fb96f);
       }
     }
-  })[_0x25e244(157)](document, { "childList": !![], "subtree": !![] });
-  function _0x4796ac(_0x35efb9) {
-    const _0x40531e = _0x25e244, _0xce6629 = {};
-    if (_0x35efb9[_0x40531e(170)]) _0xce6629["integrity"] = _0x35efb9[_0x40531e(170)];
-    if (_0x35efb9[_0x40531e(159)]) _0xce6629[_0x40531e(159)] = _0x35efb9[_0x40531e(159)];
-    if (_0x35efb9["crossOrigin"] === "use-credentials") _0xce6629[_0x40531e(165)] = _0x40531e(158);
+  })["observe"](document, { "childList": !![], "subtree": !![] });
+  function _0x3d5abf(_0x4d819f) {
+    const _0x24e274 = _0x15df6c, _0x1cec48 = {};
+    if (_0x4d819f[_0x24e274(145)]) _0x1cec48[_0x24e274(145)] = _0x4d819f[_0x24e274(145)];
+    if (_0x4d819f["referrerPolicy"]) _0x1cec48[_0x24e274(140)] = _0x4d819f["referrerPolicy"];
+    if (_0x4d819f[_0x24e274(151)] === "use-credentials") _0x1cec48["credentials"] = _0x24e274(160);
     else {
-      if (_0x35efb9[_0x40531e(162)] === "anonymous") _0xce6629[_0x40531e(165)] = "omit";
-      else _0xce6629[_0x40531e(165)] = "same-origin";
+      if (_0x4d819f[_0x24e274(151)] === _0x24e274(148)) _0x1cec48["credentials"] = _0x24e274(150);
+      else _0x1cec48[_0x24e274(142)] = _0x24e274(159);
     }
-    return _0xce6629;
+    return _0x1cec48;
   }
-  function _0x6c88f8(_0x4b54d8) {
-    const _0x266be9 = _0x25e244;
-    if (_0x4b54d8["ep"]) return;
-    _0x4b54d8["ep"] = !![];
-    const _0x166dcc = _0x4796ac(_0x4b54d8);
-    fetch(_0x4b54d8[_0x266be9(152)], _0x166dcc);
+  function _0x1abbb1(_0x28c782) {
+    const _0xa9a106 = _0x15df6c;
+    if (_0x28c782["ep"]) return;
+    _0x28c782["ep"] = !![];
+    const _0x14b133 = _0x3d5abf(_0x28c782);
+    fetch(_0x28c782[_0xa9a106(147)], _0x14b133);
   }
 })();
-(function(_0x2fce9a, _0x37dcd2) {
-  var _0x860d95 = _0x35e9, _0x1900ae = _0x2fce9a();
+function _0x27e3(_0x48df07, _0x12e63b) {
+  _0x48df07 = _0x48df07 - 177;
+  var _0xbd4e1f = _0xbd4e();
+  var _0x27e3f3 = _0xbd4e1f[_0x48df07];
+  return _0x27e3f3;
+}
+function _0xbd4e() {
+  var _0x51663d = ["vite:error", "filter", "32EVETwm", "4wvisms", "error", "3076iSWOAq", "8164758VyUYTW", "err", "238SBbOYO", "frame", "message", "2806953AaYmSp", "4898985zyymSt", "7080336AbMQNA", "284712qBqNUg", "66Qnofeu", "32148mJpIke", "1730rRjHqS"];
+  _0xbd4e = function() {
+    return _0x51663d;
+  };
+  return _0xbd4e();
+}
+(function(_0x125826, _0x53f08f) {
+  var _0x278f3f = _0x27e3, _0x43bad1 = _0x125826();
   while (!![]) {
     try {
-      var _0x54f9e3 = -parseInt(_0x860d95(338)) / 1 * (parseInt(_0x860d95(333)) / 2) + parseInt(_0x860d95(332)) / 3 * (parseInt(_0x860d95(328)) / 4) + parseInt(_0x860d95(336)) / 5 * (-parseInt(_0x860d95(334)) / 6) + parseInt(_0x860d95(330)) / 7 + -parseInt(_0x860d95(341)) / 8 + parseInt(_0x860d95(339)) / 9 + -parseInt(_0x860d95(337)) / 10 * (parseInt(_0x860d95(342)) / 11);
-      if (_0x54f9e3 === _0x37dcd2) break;
-      else _0x1900ae["push"](_0x1900ae["shift"]());
-    } catch (_0x3e8e2b) {
-      _0x1900ae["push"](_0x1900ae["shift"]());
+      var _0x1ec564 = -parseInt(_0x278f3f(193)) / 1 * (parseInt(_0x278f3f(178)) / 2) + parseInt(_0x278f3f(184)) / 3 * (-parseInt(_0x278f3f(194)) / 4) + -parseInt(_0x278f3f(185)) / 5 + -parseInt(_0x278f3f(179)) / 6 + parseInt(_0x278f3f(181)) / 7 * (parseInt(_0x278f3f(187)) / 8) + parseInt(_0x278f3f(189)) / 9 * (-parseInt(_0x278f3f(190)) / 10) + -parseInt(_0x278f3f(188)) / 11 * (-parseInt(_0x278f3f(186)) / 12);
+      if (_0x1ec564 === _0x53f08f) break;
+      else _0x43bad1["push"](_0x43bad1["shift"]());
+    } catch (_0x19daf8) {
+      _0x43bad1["push"](_0x43bad1["shift"]());
     }
   }
-})(_0x159b, 422541);
-function _0x35e9(_0x2dad7c, _0x5f540b) {
-  _0x2dad7c = _0x2dad7c - 327;
-  var _0x159b8d = _0x159b();
-  var _0x35e92f = _0x159b8d[_0x2dad7c];
-  return _0x35e92f;
-}
-function _0x159b() {
-  var _0x577828 = ["vite:error", "155xccKOl", "3040RhOpPc", "2WJourH", "5795613uVmCJf", "frame", "6116760hdSnwD", "1144pPDGaO", "filter", "241508yiZLKE", "error", "5418112busBQt", "join", "30waSZwA", "463324dCadWg", "65742lBcCLA"];
-  _0x159b = function() {
-    return _0x577828;
-  };
-  return _0x159b();
-}
-var _0x2f82b1 = _0x1eee;
-function _0x1eee(_0x60d8a6, _0xcea5b3) {
-  _0x60d8a6 = _0x60d8a6 - 345;
-  var _0x4faa44 = _0x4faa();
-  var _0x1eee21 = _0x4faa44[_0x60d8a6];
-  return _0x1eee21;
-}
-(function(_0x2cb604, _0x52710f) {
-  var _0x40cd70 = _0x1eee, _0x52cebd = _0x2cb604();
+})(_0xbd4e, 806781);
+var _0x42954b = _0x3a47;
+(function(_0x35ce06, _0x246ae9) {
+  var _0x46f31a = _0x3a47, _0x50140e = _0x35ce06();
   while (!![]) {
     try {
-      var _0x1a4836 = parseInt(_0x40cd70(361)) / 1 + parseInt(_0x40cd70(362)) / 2 * (parseInt(_0x40cd70(349)) / 3) + -parseInt(_0x40cd70(365)) / 4 + parseInt(_0x40cd70(356)) / 5 * (-parseInt(_0x40cd70(345)) / 6) + parseInt(_0x40cd70(355)) / 7 * (-parseInt(_0x40cd70(353)) / 8) + -parseInt(_0x40cd70(369)) / 9 * (parseInt(_0x40cd70(348)) / 10) + parseInt(_0x40cd70(364)) / 11 * (parseInt(_0x40cd70(358)) / 12);
-      if (_0x1a4836 === _0x52710f) break;
-      else _0x52cebd["push"](_0x52cebd["shift"]());
-    } catch (_0xd146ad) {
-      _0x52cebd["push"](_0x52cebd["shift"]());
+      var _0x2f4f7f = parseInt(_0x46f31a(175)) / 1 + parseInt(_0x46f31a(181)) / 2 + -parseInt(_0x46f31a(173)) / 3 + parseInt(_0x46f31a(172)) / 4 + parseInt(_0x46f31a(180)) / 5 * (parseInt(_0x46f31a(171)) / 6) + -parseInt(_0x46f31a(179)) / 7 + -parseInt(_0x46f31a(161)) / 8;
+      if (_0x2f4f7f === _0x246ae9) break;
+      else _0x50140e["push"](_0x50140e["shift"]());
+    } catch (_0x5a214e) {
+      _0x50140e["push"](_0x50140e["shift"]());
     }
   }
-})(_0x4faa, 453637);
-typeof globalThis !== _0x2f82b1(367) ? globalThis : typeof window !== "undefined" ? window : typeof global !== "undefined" ? global : typeof self !== _0x2f82b1(367) ? self : {};
-function getDefaultExportFromCjs(_0x307c67) {
-  var _0x57d5c4 = _0x2f82b1;
-  return _0x307c67 && _0x307c67[_0x57d5c4(357)] && Object[_0x57d5c4(368)][_0x57d5c4(354)][_0x57d5c4(360)](_0x307c67, _0x57d5c4(351)) ? _0x307c67["default"] : _0x307c67;
+})(_0x2a62, 695661);
+typeof globalThis !== "undefined" ? globalThis : typeof window !== _0x42954b(165) ? window : typeof global !== _0x42954b(165) ? global : typeof self !== _0x42954b(165) ? self : {};
+function getDefaultExportFromCjs(_0x3408aa) {
+  var _0x42169d = _0x42954b;
+  return _0x3408aa && _0x3408aa[_0x42169d(167)] && Object[_0x42169d(174)]["hasOwnProperty"][_0x42169d(178)](_0x3408aa, "default") ? _0x3408aa[_0x42169d(168)] : _0x3408aa;
 }
-function _0x4faa() {
-  var _0x42fd29 = ["830005swgfXe", "725800GkoRNv", "keys", "undefined", "prototype", "45vDEuof", "4044ABylao", "constructor", "defineProperty", "1772090CwBYnv", "9PRVwfe", "apply", "default", "function", "1048VLtqeP", "hasOwnProperty", "20601cFfFky", "6445xfGtkf", "__esModule", "300gVxYTB", "construct", "call", "695537ZjzjwV", "129026xMKsuJ", "get"];
-  _0x4faa = function() {
-    return _0x42fd29;
+function _0x3a47(_0x4ac7f5, _0x2bf747) {
+  _0x4ac7f5 = _0x4ac7f5 - 161;
+  var _0x2a6234 = _0x2a62();
+  var _0x3a47d0 = _0x2a6234[_0x4ac7f5];
+  return _0x3a47d0;
+}
+function _0x2a62() {
+  var _0x4b18bf = ["constructor", "forEach", "call", "2728460QuRvRN", "36785iYXQoI", "148022xMmzFw", "length", "9201712numCPe", "hasOwnProperty", "apply", "keys", "undefined", "get", "__esModule", "default", "defineProperty", "construct", "894ZImpHb", "5434652ZFEmpK", "1888386UrMOkV", "prototype", "336250piKfIv"];
+  _0x2a62 = function() {
+    return _0x4b18bf;
   };
-  return _0x4faa();
+  return _0x2a62();
 }
 var jsxRuntime = { exports: {} };
 var reactJsxRuntime_production_min = {};
@@ -9584,88 +9584,88 @@ function useViewTransitionState(to, { relative } = {}) {
   let nextPath = stripBasename(vtContext.nextLocation.pathname, basename) || vtContext.nextLocation.pathname;
   return matchPath(path.pathname, nextPath) != null || matchPath(path.pathname, currentPath) != null;
 }
-const _0x378698 = _0x39b2;
-(function(_0x576f3e, _0x778a05) {
-  const _0x438914 = _0x39b2, _0x354c08 = _0x576f3e();
+const _0x11d941 = _0x4a0d;
+(function(_0x521c59, _0x5088a5) {
+  const _0x3f450b = _0x4a0d, _0x5734e6 = _0x521c59();
   while (!![]) {
     try {
-      const _0x38f20a = parseInt(_0x438914(396)) / 1 + -parseInt(_0x438914(386)) / 2 + -parseInt(_0x438914(382)) / 3 * (-parseInt(_0x438914(394)) / 4) + parseInt(_0x438914(389)) / 5 * (-parseInt(_0x438914(392)) / 6) + parseInt(_0x438914(395)) / 7 * (-parseInt(_0x438914(372)) / 8) + parseInt(_0x438914(387)) / 9 * (-parseInt(_0x438914(381)) / 10) + -parseInt(_0x438914(379)) / 11 * (-parseInt(_0x438914(391)) / 12);
-      if (_0x38f20a === _0x778a05) break;
-      else _0x354c08["push"](_0x354c08["shift"]());
-    } catch (_0x523392) {
-      _0x354c08["push"](_0x354c08["shift"]());
+      const _0x71dbf8 = -parseInt(_0x3f450b(174)) / 1 + parseInt(_0x3f450b(171)) / 2 * (parseInt(_0x3f450b(169)) / 3) + parseInt(_0x3f450b(175)) / 4 + -parseInt(_0x3f450b(159)) / 5 * (parseInt(_0x3f450b(156)) / 6) + parseInt(_0x3f450b(162)) / 7 + -parseInt(_0x3f450b(172)) / 8 * (-parseInt(_0x3f450b(157)) / 9) + parseInt(_0x3f450b(164)) / 10 * (parseInt(_0x3f450b(154)) / 11);
+      if (_0x71dbf8 === _0x5088a5) break;
+      else _0x5734e6["push"](_0x5734e6["shift"]());
+    } catch (_0x2cb507) {
+      _0x5734e6["push"](_0x5734e6["shift"]());
     }
   }
-})(_0x127e, 944708);
-const CREDENTIALS = { "username": _0x378698(374), "password": _0x378698(378) };
-const CONSOLE_HINT = _0x378698(393);
-const IRIS_HELP_RESPONSE = "the forever iris in fantasy utopia";
-_0x378698(373);
-const CRASH_SNAPSHOT = "andpYjovL2dubm1uaml3Z3FvZmZ3cw==";
-const IRIS_COMMAND_ARG = _0x378698(376);
-function _0x127e() {
-  const _0x3e0bd9 = ["pwd", "10kFDAOF", "29397ytBNcy", "cd /home/theforeveriris", "\n[SECTOR]   0x7f3a9b2c\n[CHECKSUM] 8f4e2d1a\n\nSystem halted.", "cat note.txt", "1190566MBTXet", "7691589nhcMbj", "https://t.me/theforeveriris", "130tTEECS", "whoami", "298932iSPNeD", "398532HkxuKq", "为何不向我寻求帮助呢", "656KfRawM", "273uHqnXi", "1007037NNBBCp", "env", "385720LIMeyJ", "V2h5IGRvZXMgaXJpcyBoYXZlIDMgc2xpZGVzPwpPcGVuIHRoZSBjb25zb2xlLi4uCg==", "theforeveriris", "# echo ZmxhZ3toNTUzcnkxNzNfMXNfZjFrM30=", "findmeinflowers", "cat .bash_history", "fantasyutopia", "1496eihUWx"];
-  _0x127e = function() {
-    return _0x3e0bd9;
+})(_0x4da9, 640705);
+function _0x4da9() {
+  const _0x26bebc = ["715SaFdfx", "the forever iris in fantasy utopia", "361578RdsnTK", "6968646zyXrcd", "# echo ZmxhZ3toNTUzcnkxNzNfMXNfZjFrM30=", "85Ykaesb", "env", "cat readme.txt", "1250431RXzURh", "whoami", "56230NtRmui", "\n[SECTOR]   0x7f3a9b2c\n[CHECKSUM] 8f4e2d1a\n\nSystem halted.", "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n  ⚠️  CRITICAL SYSTEM FAILURE DETECTED\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\nKernel panic - not syncing: VFS: Unable to mount root fs\nCPU: 0 PID: 1 Comm: init Not tainted 5.15.0-iris #1\nHardware name: iris virtual terminal\n\nCall trace:\n  dump_stack_lvl+0x46/0x5c\n  panic+0x104/0x2ec\n  mount_block_root+0x1f4/0x2f8\n\nEmergency recovery mode activated.\nDumping core memory to emergency partition...\n\n[STATUS]   Integrity check: FAILED\n[SNAPSHOT] ", "andpYjovL2dubm1uaml3Z3FvZmZ3cw==", "ls -la", "6dqnRhF", "pwd", "474356rbGfaz", "8jAcMfE", "V2h5IGRvZXMgaXJpcyBoYXZlIDMgc2xpZGVzPwpPcGVuIHRoZSBjb25zb2xlLi4uCg==", "906941ToHmVy", "3117356HCGUQn", "iris_gate", "为何不向我寻求帮助呢", "theforeveriris", "cat .bash_history", "cat note.txt", "findmeinflowers"];
+  _0x4da9 = function() {
+    return _0x26bebc;
   };
-  return _0x127e();
+  return _0x4da9();
 }
-const IRIS_GATE_KEY = "iris_gate";
-const TELEGRAM_URL = _0x378698(388);
-function _0x39b2(_0x2dd695, _0x3a8334) {
-  _0x2dd695 = _0x2dd695 - 372;
-  const _0x127ed7 = _0x127e();
-  let _0x39b2b0 = _0x127ed7[_0x2dd695];
-  return _0x39b2b0;
+const CREDENTIALS = { "username": _0x11d941(178), "password": "fantasyutopia" };
+const CONSOLE_HINT = _0x11d941(177);
+const IRIS_HELP_RESPONSE = _0x11d941(155);
+_0x11d941(173);
+const CRASH_SNAPSHOT = _0x11d941(167);
+const IRIS_COMMAND_ARG = _0x11d941(153);
+const IRIS_GATE_KEY = _0x11d941(176);
+function _0x4a0d(_0x49d30f, _0x12f9ba) {
+  _0x49d30f = _0x49d30f - 151;
+  const _0x4da912 = _0x4da9();
+  let _0x4a0dad = _0x4da912[_0x49d30f];
+  return _0x4a0dad;
 }
+const TELEGRAM_URL = "https://t.me/theforeveriris";
 const SU_MAX_ATTEMPTS = 3;
-const CRASH_OUTPUT = "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n  ⚠️  CRITICAL SYSTEM FAILURE DETECTED\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\nKernel panic - not syncing: VFS: Unable to mount root fs\nCPU: 0 PID: 1 Comm: init Not tainted 5.15.0-iris #1\nHardware name: iris virtual terminal\n\nCall trace:\n  dump_stack_lvl+0x46/0x5c\n  panic+0x104/0x2ec\n  mount_block_root+0x1f4/0x2f8\n\nEmergency recovery mode activated.\nDumping core memory to emergency partition...\n\n[STATUS]   Integrity check: FAILED\n[SNAPSHOT] " + CRASH_SNAPSHOT + _0x378698(384);
-const HISTORY_ENTRIES = ["ls", _0x378698(383), "cat readme.txt", _0x378698(385), "ls -la", _0x378698(377), _0x378698(375), _0x378698(380), _0x378698(390), _0x378698(397)];
-function _0x1ca3(_0x30f3ae, _0x56723a) {
-  _0x30f3ae = _0x30f3ae - 279;
-  const _0x1fdec3 = _0x1fde();
-  let _0x1ca39d = _0x1fdec3[_0x30f3ae];
-  return _0x1ca39d;
-}
-(function(_0x18f3f7, _0x22ecdc) {
-  const _0x5b83e8 = _0x1ca3, _0x5d69ae = _0x18f3f7();
+const CRASH_OUTPUT = _0x11d941(166) + CRASH_SNAPSHOT + _0x11d941(165);
+const HISTORY_ENTRIES = ["ls", "cd /home/theforeveriris", _0x11d941(161), _0x11d941(152), _0x11d941(168), _0x11d941(151), _0x11d941(158), _0x11d941(170), _0x11d941(163), _0x11d941(160)];
+(function(_0x4409e6, _0x211428) {
+  const _0x2e0e2c = _0x1924, _0x41d8ca = _0x4409e6();
   while (!![]) {
     try {
-      const _0x2062ec = -parseInt(_0x5b83e8(292)) / 1 * (parseInt(_0x5b83e8(320)) / 2) + parseInt(_0x5b83e8(295)) / 3 + -parseInt(_0x5b83e8(296)) / 4 * (parseInt(_0x5b83e8(314)) / 5) + parseInt(_0x5b83e8(297)) / 6 + parseInt(_0x5b83e8(294)) / 7 * (parseInt(_0x5b83e8(282)) / 8) + parseInt(_0x5b83e8(303)) / 9 * (-parseInt(_0x5b83e8(290)) / 10) + parseInt(_0x5b83e8(305)) / 11;
-      if (_0x2062ec === _0x22ecdc) break;
-      else _0x5d69ae["push"](_0x5d69ae["shift"]());
-    } catch (_0x4685f0) {
-      _0x5d69ae["push"](_0x5d69ae["shift"]());
+      const _0x320c9a = parseInt(_0x2e0e2c(168)) / 1 + -parseInt(_0x2e0e2c(150)) / 2 + -parseInt(_0x2e0e2c(170)) / 3 + parseInt(_0x2e0e2c(184)) / 4 * (-parseInt(_0x2e0e2c(181)) / 5) + -parseInt(_0x2e0e2c(155)) / 6 + parseInt(_0x2e0e2c(146)) / 7 + parseInt(_0x2e0e2c(142)) / 8;
+      if (_0x320c9a === _0x211428) break;
+      else _0x41d8ca["push"](_0x41d8ca["shift"]());
+    } catch (_0x203ee6) {
+      _0x41d8ca["push"](_0x41d8ca["shift"]());
     }
   }
-})(_0x1fde, 855371);
-function _0x1fde() {
-  const _0x32dd10 = ["random", "src/components/HomePage.tsx", "absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300", "text-white/80 text-xs tracking-wider", "img", "3405172gmveYv", "%7B%22cwd%22%3A%22%2Fhome%2Frunner%2Fwork%2Fme%2Fme%22%7D", "fixed inset-0 overflow-hidden pointer-events-none", "length", "https://picsum.photos/400/", "push", "href", "?random=", "height", "72KWMRUY", "#/terminal", "location", "landscape", "getItem", "src", "nature", "break-inside-avoid group cursor-pointer", "30HaFDmh", "min-h-screen bg-gradient-to-br from-[#0a0a1a] via-[#1a0a2e] to-[#0a1628] relative", "1XmGcOj", "portrait", "221151wYNJyL", "1889499cmGNHn", "6474644zsUYBR", "3626370EBtcrV", "100", "span", "'Cormorant Garamond', 'Georgia', serif", "div", "relative z-10 flex justify-between items-center p-4 md:p-6", "5108463oWtNiV", "151", "47969614xUhBHJ", "open", "fadeInUp 0.5s ease-out forwards", "relative z-10 px-4 md:px-6 pb-8", "105", "log", "%7B%22text%22%3A%22iris%22%2C%22textStartLine%22%3A%2266%22%2C%22textStartColumn%22%3A%229%22%2C%22textEndLine%22%3A%2268%22%2C%22textEndColumn%22%3A%228%22%2C%22cwd%22%3A%22%2Fhome%2Frunner%2Fwork%2Fme%2Fme%22%7D", "absolute top-1/4 left-1/4 w-96 h-96 bg-purple-500/10 rounded-full blur-3xl animate-pulse", "iris", "5emQYiy"];
-  _0x1fde = function() {
-    return _0x32dd10;
-  };
-  return _0x1fde();
+})(_0x50fe, 783494);
+function _0x1924(_0x242624, _0x5b094f) {
+  _0x242624 = _0x242624 - 140;
+  const _0x50feed = _0x50fe();
+  let _0x192492 = _0x50feed[_0x242624];
+  return _0x192492;
 }
 function HomePage() {
-  const _0x55a382 = _0x1ca3, [_0x54b56e, _0x38ada6] = reactExports.useState([]);
+  const _0x14b814 = _0x1924, [_0x5430d1, _0x4077a8] = reactExports.useState([]);
   return reactExports.useEffect(() => {
-    const _0x2d2472 = _0x1ca3;
-    if (localStorage[_0x2d2472(286)](IRIS_GATE_KEY) === _0x2d2472(306)) {
-      window[_0x2d2472(284)][_0x2d2472(279)] = TELEGRAM_URL;
+    const _0x5c6d6c = _0x1924;
+    if (localStorage["getItem"](IRIS_GATE_KEY) === _0x5c6d6c(141)) {
+      window[_0x5c6d6c(187)]["href"] = TELEGRAM_URL;
       return;
     }
-    console[_0x2d2472(310)](CONSOLE_HINT), window["iris"] = { "help": () => IRIS_HELP_RESPONSE };
+    console[_0x5c6d6c(147)](CONSOLE_HINT), window["iris"] = { "help": () => IRIS_HELP_RESPONSE };
   }, []), reactExports.useEffect(() => {
-    const _0x30c24f = () => {
-      const _0x1ce1e9 = _0x1ca3, _0x4fbc96 = ["flowers", _0x1ce1e9(288), "abstract", _0x1ce1e9(293), _0x1ce1e9(285)], _0x17d582 = [];
-      for (let _0x32114f = 0; _0x32114f < 12; _0x32114f++) {
-        const _0x4d4fb2 = _0x4fbc96[Math["floor"](Math["random"]() * _0x4fbc96[_0x1ce1e9(323)])], _0x244e8d = 200 + Math["floor"](Math[_0x1ce1e9(315)]() * 200);
-        _0x17d582[_0x1ce1e9(325)]({ "id": _0x32114f, "src": _0x1ce1e9(324) + _0x244e8d + _0x1ce1e9(280) + _0x32114f + "&category=" + _0x4d4fb2, "height": _0x244e8d, "category": _0x4d4fb2 });
+    const _0x486ee6 = () => {
+      const _0x377eba = _0x1924, _0x5a85dd = [_0x377eba(153), _0x377eba(143), _0x377eba(144), _0x377eba(156), _0x377eba(149)], _0x556af6 = [];
+      for (let _0x22c90a = 0; _0x22c90a < 12; _0x22c90a++) {
+        const _0x1d7a9d = _0x5a85dd[Math[_0x377eba(183)](Math["random"]() * _0x5a85dd[_0x377eba(179)])], _0x3d1615 = 200 + Math[_0x377eba(183)](Math[_0x377eba(166)]() * 200);
+        _0x556af6[_0x377eba(176)]({ "id": _0x22c90a, "src": _0x377eba(178) + _0x3d1615 + "?random=" + _0x22c90a + _0x377eba(151) + _0x1d7a9d, "height": _0x3d1615, "category": _0x1d7a9d });
       }
-      _0x38ada6(_0x17d582);
+      _0x4077a8(_0x556af6);
     };
-    _0x30c24f();
-  }, []), jsxRuntimeExports.jsxs(_0x55a382(301), { "trae-inspector-start-line": "53", "trae-inspector-start-column": "4", "trae-inspector-end-line": _0x55a382(309), "trae-inspector-end-column": "10", "trae-inspector-file-path": _0x55a382(316), "trae-inspector-static-props": "%7B%22cwd%22%3A%22%2Fhome%2Frunner%2Fwork%2Fme%2Fme%22%7D", "className": _0x55a382(291), "children": [jsxRuntimeExports.jsxs("div", { "trae-inspector-start-line": "55", "trae-inspector-start-column": "6", "trae-inspector-end-line": "58", "trae-inspector-end-column": "12", "trae-inspector-file-path": "src/components/HomePage.tsx", "trae-inspector-static-props": _0x55a382(321), "className": _0x55a382(322), "children": [jsxRuntimeExports.jsx("div", { "trae-inspector-start-line": "56", "trae-inspector-start-column": "8", "trae-inspector-end-line": "56", "trae-inspector-end-column": "116", "trae-inspector-file-path": "src/components/HomePage.tsx", "trae-inspector-static-props": _0x55a382(321), "className": _0x55a382(312) }), jsxRuntimeExports.jsx(_0x55a382(301), { "trae-inspector-start-line": "57", "trae-inspector-start-column": "8", "trae-inspector-end-line": "57", "trae-inspector-end-column": _0x55a382(304), "trae-inspector-file-path": _0x55a382(316), "trae-inspector-static-props": _0x55a382(321), "className": "absolute bottom-1/4 right-1/4 w-80 h-80 bg-blue-500/10 rounded-full blur-3xl animate-pulse", "style": { "animationDelay": "1s" } })] }), jsxRuntimeExports.jsx("div", { "trae-inspector-start-line": "61", "trae-inspector-start-column": "6", "trae-inspector-end-line": "69", "trae-inspector-end-column": "12", "trae-inspector-file-path": _0x55a382(316), "trae-inspector-static-props": "%7B%22cwd%22%3A%22%2Fhome%2Frunner%2Fwork%2Fme%2Fme%22%7D", "className": _0x55a382(302), "children": jsxRuntimeExports.jsx("a", { "trae-inspector-start-line": "62", "trae-inspector-start-column": "8", "trae-inspector-end-line": "68", "trae-inspector-end-column": "12", "trae-inspector-file-path": _0x55a382(316), "trae-inspector-static-props": _0x55a382(311), "href": _0x55a382(283), "className": "text-xl font-light tracking-[0.2em] text-white/80 hover:text-purple-300 transition-colors duration-300 cursor-pointer", "style": { "fontFamily": _0x55a382(300) }, "children": _0x55a382(313) }) }), jsxRuntimeExports.jsx(_0x55a382(301), { "trae-inspector-start-line": "72", "trae-inspector-start-column": "6", "trae-inspector-end-line": "101", "trae-inspector-end-column": "12", "trae-inspector-file-path": _0x55a382(316), "trae-inspector-static-props": _0x55a382(321), "className": _0x55a382(308), "children": jsxRuntimeExports.jsx(_0x55a382(301), { "trae-inspector-start-line": "73", "trae-inspector-start-column": "8", "trae-inspector-end-line": _0x55a382(298), "trae-inspector-end-column": "14", "trae-inspector-file-path": _0x55a382(316), "trae-inspector-static-props": _0x55a382(321), "className": "columns-2 md:columns-3 lg:columns-4 gap-4 space-y-4", "children": _0x54b56e["map"]((_0x2bef58) => jsxRuntimeExports.jsx(_0x55a382(301), { "trae-inspector-start-line": "75", "trae-inspector-start-column": "12", "trae-inspector-end-line": "98", "trae-inspector-end-column": "18", "trae-inspector-file-path": _0x55a382(316), "trae-inspector-static-props": _0x55a382(321), "className": _0x55a382(289), "style": { "animationDelay": _0x2bef58["id"] * 100 + "ms", "animation": _0x55a382(307), "opacity": 0 }, "children": jsxRuntimeExports.jsxs(_0x55a382(301), { "trae-inspector-start-line": "84", "trae-inspector-start-column": "14", "trae-inspector-end-line": "97", "trae-inspector-end-column": "20", "trae-inspector-file-path": _0x55a382(316), "trae-inspector-static-props": _0x55a382(321), "className": "relative overflow-hidden rounded-lg shadow-lg bg-white/5 border border-white/5", "children": [jsxRuntimeExports.jsx(_0x55a382(319), { "trae-inspector-start-line": "85", "trae-inspector-start-column": "16", "trae-inspector-end-line": "90", "trae-inspector-end-column": "18", "trae-inspector-file-path": "src/components/HomePage.tsx", "trae-inspector-static-props": _0x55a382(321), "src": _0x2bef58[_0x55a382(287)], "alt": "Gallery " + _0x2bef58["id"], "className": "w-full object-cover transition-transform duration-500 group-hover:scale-105", "style": { "height": _0x2bef58[_0x55a382(281)] } }), jsxRuntimeExports.jsx(_0x55a382(301), { "trae-inspector-start-line": "91", "trae-inspector-start-column": "16", "trae-inspector-end-line": "91", "trae-inspector-end-column": "180", "trae-inspector-file-path": _0x55a382(316), "trae-inspector-static-props": _0x55a382(321), "className": _0x55a382(317) }), jsxRuntimeExports.jsx(_0x55a382(301), { "trae-inspector-start-line": "92", "trae-inspector-start-column": "16", "trae-inspector-end-line": "96", "trae-inspector-end-column": "22", "trae-inspector-file-path": _0x55a382(316), "trae-inspector-static-props": _0x55a382(321), "className": "absolute bottom-0 left-0 right-0 p-3 transform translate-y-full group-hover:translate-y-0 transition-transform duration-300", "children": jsxRuntimeExports.jsx(_0x55a382(299), { "trae-inspector-start-line": "93", "trae-inspector-start-column": "18", "trae-inspector-end-line": "95", "trae-inspector-end-column": "25", "trae-inspector-file-path": _0x55a382(316), "trae-inspector-static-props": _0x55a382(321), "className": _0x55a382(318), "children": _0x2bef58["category"] }) })] }) }, _0x2bef58["id"])) }) })] });
+    _0x486ee6();
+  }, []), jsxRuntimeExports.jsxs(_0x14b814(186), { "trae-inspector-start-line": "53", "trae-inspector-start-column": "4", "trae-inspector-end-line": _0x14b814(174), "trae-inspector-end-column": "10", "trae-inspector-file-path": _0x14b814(160), "trae-inspector-static-props": _0x14b814(171), "className": _0x14b814(159), "children": [jsxRuntimeExports.jsxs(_0x14b814(186), { "trae-inspector-start-line": "55", "trae-inspector-start-column": "6", "trae-inspector-end-line": "58", "trae-inspector-end-column": "12", "trae-inspector-file-path": _0x14b814(160), "trae-inspector-static-props": "%7B%22cwd%22%3A%22%2Fhome%2Frunner%2Fwork%2Fme%2Fme%22%7D", "className": "fixed inset-0 overflow-hidden pointer-events-none", "children": [jsxRuntimeExports.jsx(_0x14b814(186), { "trae-inspector-start-line": "56", "trae-inspector-start-column": "8", "trae-inspector-end-line": "56", "trae-inspector-end-column": "116", "trae-inspector-file-path": _0x14b814(160), "trae-inspector-static-props": _0x14b814(171), "className": _0x14b814(180) }), jsxRuntimeExports.jsx("div", { "trae-inspector-start-line": "57", "trae-inspector-start-column": "8", "trae-inspector-end-line": "57", "trae-inspector-end-column": _0x14b814(145), "trae-inspector-file-path": _0x14b814(160), "trae-inspector-static-props": _0x14b814(171), "className": _0x14b814(169), "style": { "animationDelay": "1s" } })] }), jsxRuntimeExports.jsx(_0x14b814(186), { "trae-inspector-start-line": "61", "trae-inspector-start-column": "6", "trae-inspector-end-line": "69", "trae-inspector-end-column": "12", "trae-inspector-file-path": _0x14b814(160), "trae-inspector-static-props": "%7B%22cwd%22%3A%22%2Fhome%2Frunner%2Fwork%2Fme%2Fme%22%7D", "className": "relative z-10 flex justify-between items-center p-4 md:p-6", "children": jsxRuntimeExports.jsx("a", { "trae-inspector-start-line": "62", "trae-inspector-start-column": "8", "trae-inspector-end-line": "68", "trae-inspector-end-column": "12", "trae-inspector-file-path": "src/components/HomePage.tsx", "trae-inspector-static-props": _0x14b814(185), "href": "#/terminal", "className": _0x14b814(164), "style": { "fontFamily": _0x14b814(175) }, "children": _0x14b814(161) }) }), jsxRuntimeExports.jsx(_0x14b814(186), { "trae-inspector-start-line": "72", "trae-inspector-start-column": "6", "trae-inspector-end-line": _0x14b814(152), "trae-inspector-end-column": "12", "trae-inspector-file-path": _0x14b814(160), "trae-inspector-static-props": _0x14b814(171), "className": _0x14b814(148), "children": jsxRuntimeExports.jsx("div", { "trae-inspector-start-line": "73", "trae-inspector-start-column": "8", "trae-inspector-end-line": "100", "trae-inspector-end-column": "14", "trae-inspector-file-path": _0x14b814(160), "trae-inspector-static-props": _0x14b814(171), "className": _0x14b814(157), "children": _0x5430d1[_0x14b814(165)]((_0x2576f3) => jsxRuntimeExports.jsx("div", { "trae-inspector-start-line": "75", "trae-inspector-start-column": "12", "trae-inspector-end-line": "98", "trae-inspector-end-column": "18", "trae-inspector-file-path": "src/components/HomePage.tsx", "trae-inspector-static-props": "%7B%22cwd%22%3A%22%2Fhome%2Frunner%2Fwork%2Fme%2Fme%22%7D", "className": _0x14b814(158), "style": { "animationDelay": _0x2576f3["id"] * 100 + "ms", "animation": _0x14b814(177), "opacity": 0 }, "children": jsxRuntimeExports.jsxs(_0x14b814(186), { "trae-inspector-start-line": "84", "trae-inspector-start-column": "14", "trae-inspector-end-line": "97", "trae-inspector-end-column": "20", "trae-inspector-file-path": "src/components/HomePage.tsx", "trae-inspector-static-props": _0x14b814(171), "className": _0x14b814(163), "children": [jsxRuntimeExports.jsx("img", { "trae-inspector-start-line": "85", "trae-inspector-start-column": "16", "trae-inspector-end-line": "90", "trae-inspector-end-column": "18", "trae-inspector-file-path": _0x14b814(160), "trae-inspector-static-props": _0x14b814(171), "src": _0x2576f3["src"], "alt": "Gallery " + _0x2576f3["id"], "className": _0x14b814(162), "style": { "height": _0x2576f3[_0x14b814(154)] } }), jsxRuntimeExports.jsx(_0x14b814(186), { "trae-inspector-start-line": "91", "trae-inspector-start-column": "16", "trae-inspector-end-line": "91", "trae-inspector-end-column": _0x14b814(167), "trae-inspector-file-path": _0x14b814(160), "trae-inspector-static-props": "%7B%22cwd%22%3A%22%2Fhome%2Frunner%2Fwork%2Fme%2Fme%22%7D", "className": _0x14b814(140) }), jsxRuntimeExports.jsx(_0x14b814(186), { "trae-inspector-start-line": "92", "trae-inspector-start-column": "16", "trae-inspector-end-line": "96", "trae-inspector-end-column": "22", "trae-inspector-file-path": "src/components/HomePage.tsx", "trae-inspector-static-props": _0x14b814(171), "className": "absolute bottom-0 left-0 right-0 p-3 transform translate-y-full group-hover:translate-y-0 transition-transform duration-300", "children": jsxRuntimeExports.jsx(_0x14b814(172), { "trae-inspector-start-line": "93", "trae-inspector-start-column": "18", "trae-inspector-end-line": "95", "trae-inspector-end-column": "25", "trae-inspector-file-path": "src/components/HomePage.tsx", "trae-inspector-static-props": _0x14b814(171), "className": _0x14b814(173), "children": _0x2576f3[_0x14b814(182)] }) })] }) }, _0x2576f3["id"])) }) })] });
+}
+function _0x50fe() {
+  const _0x553506 = ["src/components/HomePage.tsx", "iris", "w-full object-cover transition-transform duration-500 group-hover:scale-105", "relative overflow-hidden rounded-lg shadow-lg bg-white/5 border border-white/5", "text-xl font-light tracking-[0.2em] text-white/80 hover:text-purple-300 transition-colors duration-300 cursor-pointer", "map", "random", "180", "627516GEXMlb", "absolute bottom-1/4 right-1/4 w-80 h-80 bg-blue-500/10 rounded-full blur-3xl animate-pulse", "2091225MXVDmj", "%7B%22cwd%22%3A%22%2Fhome%2Frunner%2Fwork%2Fme%2Fme%22%7D", "span", "text-white/80 text-xs tracking-wider", "105", "'Cormorant Garamond', 'Georgia', serif", "push", "fadeInUp 0.5s ease-out forwards", "https://picsum.photos/400/", "length", "absolute top-1/4 left-1/4 w-96 h-96 bg-purple-500/10 rounded-full blur-3xl animate-pulse", "5eQHLNC", "category", "floor", "3942888SGVlBd", "%7B%22text%22%3A%22iris%22%2C%22textStartLine%22%3A%2266%22%2C%22textStartColumn%22%3A%229%22%2C%22textEndLine%22%3A%2268%22%2C%22textEndColumn%22%3A%228%22%2C%22cwd%22%3A%22%2Fhome%2Frunner%2Fwork%2Fme%2Fme%22%7D", "div", "location", "absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300", "open", "23323040AplBgs", "nature", "abstract", "151", "10019562tMGMzq", "log", "relative z-10 px-4 md:px-6 pb-8", "landscape", "2479816JPLBtz", "&category=", "101", "flowers", "height", "7608378KqwlxN", "portrait", "columns-2 md:columns-3 lg:columns-4 gap-4 space-y-4", "break-inside-avoid group cursor-pointer", "min-h-screen bg-gradient-to-br from-[#0a0a1a] via-[#1a0a2e] to-[#0a1628] relative"];
+  _0x50fe = function() {
+    return _0x553506;
+  };
+  return _0x50fe();
 }
 const createStoreImpl = (createState) => {
   let state;
@@ -9706,53 +9706,28 @@ const createImpl = (createState) => {
   return useBoundStore;
 };
 const create = ((createState) => createState ? createImpl(createState) : createImpl);
-const _0x5520bc = _0x5efc;
-(function(_0x2682dd, _0x47dca5) {
-  const _0x8e35e = _0x5efc, _0x2b3a60 = _0x2682dd();
+const _0x370da3 = _0x58fb;
+function _0x58fb(_0x26b668, _0x8f458e) {
+  _0x26b668 = _0x26b668 - 350;
+  const _0x5b78d1 = _0x5b78();
+  let _0x58fb26 = _0x5b78d1[_0x26b668];
+  return _0x58fb26;
+}
+(function(_0x5524ea, _0x1c2ae8) {
+  const _0x1d9583 = _0x58fb, _0x1d5db2 = _0x5524ea();
   while (!![]) {
     try {
-      const _0xc44ee0 = parseInt(_0x8e35e(352)) / 1 + parseInt(_0x8e35e(348)) / 2 + parseInt(_0x8e35e(363)) / 3 * (-parseInt(_0x8e35e(324)) / 4) + parseInt(_0x8e35e(349)) / 5 + parseInt(_0x8e35e(340)) / 6 * (parseInt(_0x8e35e(347)) / 7) + parseInt(_0x8e35e(338)) / 8 * (-parseInt(_0x8e35e(309)) / 9) + parseInt(_0x8e35e(319)) / 10 * (parseInt(_0x8e35e(306)) / 11);
-      if (_0xc44ee0 === _0x47dca5) break;
-      else _0x2b3a60["push"](_0x2b3a60["shift"]());
-    } catch (_0x477992) {
-      _0x2b3a60["push"](_0x2b3a60["shift"]());
+      const _0x3ef893 = parseInt(_0x1d9583(376)) / 1 * (-parseInt(_0x1d9583(364)) / 2) + -parseInt(_0x1d9583(359)) / 3 + -parseInt(_0x1d9583(384)) / 4 + parseInt(_0x1d9583(362)) / 5 + -parseInt(_0x1d9583(379)) / 6 + parseInt(_0x1d9583(403)) / 7 * (parseInt(_0x1d9583(365)) / 8) + parseInt(_0x1d9583(388)) / 9;
+      if (_0x3ef893 === _0x1c2ae8) break;
+      else _0x1d5db2["push"](_0x1d5db2["shift"]());
+    } catch (_0x271f0e) {
+      _0x1d5db2["push"](_0x1d5db2["shift"]());
     }
   }
-})(_0x3672, 829022);
+})(_0x5b78, 812306);
 const NUL = "\0";
-function createFile(_0x1adf18, _0x387a70) {
-  const _0x5f0ceb = _0x5efc;
-  return { "type": "file", "content": _0x1adf18, "permissions": (_0x387a70 == null ? void 0 : _0x387a70[_0x5f0ceb(313)]) || _0x5f0ceb(359), "owner": (_0x387a70 == null ? void 0 : _0x387a70[_0x5f0ceb(335)]) || _0x5f0ceb(357), "group": (_0x387a70 == null ? void 0 : _0x387a70[_0x5f0ceb(351)]) || _0x5f0ceb(357), "size": (_0x387a70 == null ? void 0 : _0x387a70[_0x5f0ceb(356)]) ?? new Blob([_0x1adf18])[_0x5f0ceb(356)], "modified": (_0x387a70 == null ? void 0 : _0x387a70[_0x5f0ceb(315)]) || "2025-06-15 14:32", "hasNul": (_0x387a70 == null ? void 0 : _0x387a70[_0x5f0ceb(305)]) || ![] };
-}
-function createDir(_0x5401d8, _0x160aba) {
-  const _0x5e72a6 = _0x5efc;
-  return { "type": "directory", "children": _0x5401d8, "permissions": (_0x160aba == null ? void 0 : _0x160aba[_0x5e72a6(313)]) || _0x5e72a6(337), "owner": (_0x160aba == null ? void 0 : _0x160aba[_0x5e72a6(335)]) || _0x5e72a6(327), "group": (_0x160aba == null ? void 0 : _0x160aba[_0x5e72a6(351)]) || "root", "modified": (_0x160aba == null ? void 0 : _0x160aba[_0x5e72a6(315)]) || _0x5e72a6(322) };
-}
-const bashHistoryContent = _0x5520bc(311) + NUL + _0x5520bc(320), bashHistoryBakContent = _0x5520bc(341);
-const fileSystem = createDir({ "home": createDir({ "theforeveriris": createDir({ "readme.txt": createFile(_0x5520bc(346), { "permissions": _0x5520bc(359), "owner": "theforeveriris", "group": _0x5520bc(357) }), "note.txt": createFile(_0x5520bc(308), { "permissions": _0x5520bc(359), "owner": _0x5520bc(357), "group": _0x5520bc(357) }), ".bash_history": createFile(bashHistoryContent, { "permissions": _0x5520bc(342), "owner": _0x5520bc(357), "group": _0x5520bc(357), "hasNul": !![], "size": 120 }), ".bash_history.bak": createFile(bashHistoryBakContent, { "permissions": _0x5520bc(359), "owner": _0x5520bc(357), "group": _0x5520bc(357) }), ".viminfo": createFile(_0x5520bc(326), { "permissions": _0x5520bc(342), "owner": "theforeveriris", "group": _0x5520bc(357) }) }, { "permissions": _0x5520bc(337), "owner": _0x5520bc(357), "group": "theforeveriris" }) }, { "permissions": _0x5520bc(337), "owner": _0x5520bc(327), "group": _0x5520bc(327) }), "etc": createDir({ "passwd": createFile("root:x:0:0:root:/root:/bin/bash\ntheforeveriris:x:1000:1000:theforeveriris:/home/theforeveriris:/bin/bash\nnobody:x:65534:65534:nobody:/nonexistent:/usr/sbin/nologin", { "permissions": "-rw-r--r--", "owner": "root", "group": _0x5520bc(327) }), "motd": createFile(_0x5520bc(350), { "permissions": _0x5520bc(359), "owner": "root", "group": _0x5520bc(327) }) }, { "permissions": _0x5520bc(337), "owner": "root", "group": _0x5520bc(327) }), "var": createDir({ "log": createDir({ "auth.log": createFile("", { "permissions": _0x5520bc(344), "owner": _0x5520bc(327), "group": _0x5520bc(327) }) }, { "permissions": _0x5520bc(337), "owner": _0x5520bc(327), "group": _0x5520bc(327) }) }, { "permissions": _0x5520bc(337), "owner": _0x5520bc(327), "group": "root" }), "tmp": createDir({ "cleanup.sh": createFile(_0x5520bc(312), { "permissions": "-rw-r--r--", "owner": _0x5520bc(327), "group": "root" }) }, { "permissions": _0x5520bc(358), "owner": _0x5520bc(327), "group": "root" }), "usr": createDir({ "bin": createDir({}, { "permissions": "drwxr-xr-x", "owner": _0x5520bc(327), "group": _0x5520bc(327) }) }, { "permissions": "drwxr-xr-x", "owner": _0x5520bc(327), "group": "root" }) });
-const envVars = { "PATH": _0x5520bc(339), "HOME": _0x5520bc(333), "USER": _0x5520bc(357), "SHELL": _0x5520bc(330), "HISTSIZE": _0x5520bc(361), "HISTFILESIZE": _0x5520bc(334), "DECOY": _0x5520bc(316), "_": "" };
-function resolvePath(_0x21345e, _0x230027) {
-  const _0x252962 = _0x5520bc;
-  if (_0x230027["startsWith"]("/")) return normalizePath(_0x230027);
-  const _0x2a40ec = _0x21345e[_0x252962(345)]("/")[_0x252962(343)](Boolean), _0x332b75 = _0x230027[_0x252962(345)]("/");
-  for (const _0x3174a3 of _0x332b75) {
-    if (_0x3174a3 === "..") {
-      if (_0x2a40ec[_0x252962(314)] > 0) _0x2a40ec[_0x252962(332)]();
-    } else _0x3174a3 !== "." && _0x3174a3 !== "" && _0x2a40ec[_0x252962(336)](_0x3174a3);
-  }
-  return "/" + _0x2a40ec[_0x252962(360)]("/");
-}
-function normalizePath(_0x246cff) {
-  const _0x3e6f4f = _0x5520bc, _0x487168 = _0x246cff[_0x3e6f4f(345)]("/")[_0x3e6f4f(343)](Boolean), _0x574c5a = [];
-  for (const _0x3b38d3 of _0x487168) {
-    if (_0x3b38d3 === "..") {
-      if (_0x574c5a[_0x3e6f4f(314)] > 0) _0x574c5a["pop"]();
-    } else _0x3b38d3 !== "." && _0x574c5a[_0x3e6f4f(336)](_0x3b38d3);
-  }
-  return "/" + _0x574c5a[_0x3e6f4f(360)]("/");
-}
-function _0x3672() {
-  const _0x2e2bbc = ["substring", ".sh", "file", "size", "theforeveriris", "drwxrwxrwt", "-rw-r--r--", "join", "1000", "children", "3ZrPutt", "hasNul", "11QNoHsf", "ASCII text, with NUL bytes", "Remember to check your history.\nSometimes the past holds the key to the future.\nBut not all history is visible at first glance.", "1539mFsBbn", "endsWith", 'ls\ncd /etc\ncat passwd\necho "nothing here"\nrm -rf /tmp/*\nclear\nexit', "ZmxhZ3t0cnlfYWdhaW5fbm90X2hlcmV9", "permissions", "length", "modified", "ZmxhZ3t0aGlzX2lzX2FfbGllfQ==", "type", "directory", "6015840tXsgPf", "echo ZmxhZ3tNVFV3T1dWemRISjFZM1JwYjI0Z1kzSmxZWFJsY3lCdVpYY2diR2xtWlE9PX0=", "Bourne-Again shell script, ASCII text executable", "2025-06-15 14:32", "indexOf", "4907324mkgZKz", "charCodeAt", "# viminfo\n# This file is auto-generated by vim.\n# You may edit it by hand.\n\n'0  1  0  /home/theforeveriris/readme.txt\n'1  1  0  /home/theforeveriris/note.txt", "root", "ASCII text", "keys", "/bin/bash", "content", "pop", "/home/theforeveriris", "2000", "owner", "push", "drwxr-xr-x", "69824snkPRD", "/usr/local/bin:/usr/bin:/bin", "438IayqVz", "ls -la\ncd /home\necho ZmxhZ3tjbG9zZV9idXRfbm9fY2lnYXJ9\ncat /etc/passwd\necho ZmxhZ3t5b3VfYXJlX3dhcm19\nwhoami\npwd", "-rw-------", "filter", "-rw-r-----", "split", "Welcome, theforeveriris.\nThis is your home directory.\nFeel free to look around.", "132699hLiXiK", "1625440sXASnN", "301810NJVDHf", `Welcome to iris virtual terminal v5.15.0-iris
+function _0x5b78() {
+  const _0x1c865c = ["push", "file", "69635HmXzhD", "/home/theforeveriris", "42WtIVuK", "10933912dYmRzL", "substring", "charCodeAt", "ls -la\ncd /home\necho ZmxhZ3tjbG9zZV9idXRfbm9fY2lnYXJ9\ncat /etc/passwd\necho ZmxhZ3t5b3VfYXJlX3dhcm19\nwhoami\npwd", "theforeveriris", "directory", "root:x:0:0:root:/root:/bin/bash\ntheforeveriris:x:1000:1000:theforeveriris:/home/theforeveriris:/bin/bash\nnobody:x:65534:65534:nobody:/nonexistent:/usr/sbin/nologin", "-rw-------", "-rw-r--r--", "size", "data", "28687loFOIq", "-rw-r-----", "drwxr-xr-x", "3923808RDqewf", "ZmxhZ3t0cnlfYWdhaW5fbm90X2hlcmV9", "type", "endsWith", 'ls\ncd /etc\ncat passwd\necho "nothing here"\nrm -rf /tmp/*\nclear\nexit', "5702568YdZIxv", `Welcome to iris virtual terminal v5.15.0-iris
 
   _ 
  (_)
@@ -9764,502 +9739,530 @@ function _0x3672() {
                 |___/ 
 
 Login with username: theforeveriris
-Type "help" for available commands.`, "group", "689814pxqrLk"];
-  _0x3672 = function() {
-    return _0x2e2bbc;
+Type "help" for available commands.`, "test", "ASCII text, with NUL bytes", "25764921adHgBv", "filter", "modified", "keys", "split", "pop", "/usr/local/bin:/usr/bin:/bin", "owner", "hasNul", "echo ZmxhZ3tNVFV3T1dWemRISjFZM1JwYjI0Z1kzSmxZWFJsY3lCdVpYY2diR2xtWlE9PX0=", "2000", "startsWith", "ZmxhZ3t0aGlzX2lzX2FfbGllfQ==", "length", "root", "7kxcatr", "Bourne-Again shell script, ASCII text executable", ".bash_history", "children", "# viminfo\n# This file is auto-generated by vim.\n# You may edit it by hand.\n\n'0  1  0  /home/theforeveriris/readme.txt\n'1  1  0  /home/theforeveriris/note.txt", "drwxrwxrwt", "group", "ASCII text", "permissions", "2025-06-15 14:32", "content", "2247276KaYaNS"];
+  _0x5b78 = function() {
+    return _0x1c865c;
   };
-  return _0x3672();
+  return _0x5b78();
 }
-function getNode(_0x4d34bd) {
-  const _0x5abbba = _0x5520bc;
-  if (_0x4d34bd === "/") return fileSystem;
-  const _0x150c70 = _0x4d34bd[_0x5abbba(345)]("/")[_0x5abbba(343)](Boolean);
-  let _0xc7bd69 = fileSystem;
-  for (const _0x42f95b of _0x150c70) {
-    if (_0xc7bd69[_0x5abbba(317)] !== _0x5abbba(318) || !_0xc7bd69[_0x5abbba(362)]) return null;
-    const _0x8fbc07 = _0xc7bd69[_0x5abbba(362)][_0x42f95b];
-    if (!_0x8fbc07) return null;
-    _0xc7bd69 = _0x8fbc07;
+function createFile(_0x59e0bb, _0x2712f6) {
+  const _0xa5ec1 = _0x58fb;
+  return { "type": _0xa5ec1(361), "content": _0x59e0bb, "permissions": (_0x2712f6 == null ? void 0 : _0x2712f6[_0xa5ec1(356)]) || "-rw-r--r--", "owner": (_0x2712f6 == null ? void 0 : _0x2712f6[_0xa5ec1(395)]) || _0xa5ec1(369), "group": (_0x2712f6 == null ? void 0 : _0x2712f6[_0xa5ec1(354)]) || _0xa5ec1(369), "size": (_0x2712f6 == null ? void 0 : _0x2712f6[_0xa5ec1(374)]) ?? new Blob([_0x59e0bb])[_0xa5ec1(374)], "modified": (_0x2712f6 == null ? void 0 : _0x2712f6[_0xa5ec1(390)]) || "2025-06-15 14:32", "hasNul": (_0x2712f6 == null ? void 0 : _0x2712f6["hasNul"]) || ![] };
+}
+function createDir(_0x41ac00, _0x193c91) {
+  const _0x223033 = _0x58fb;
+  return { "type": _0x223033(370), "children": _0x41ac00, "permissions": (_0x193c91 == null ? void 0 : _0x193c91[_0x223033(356)]) || _0x223033(378), "owner": (_0x193c91 == null ? void 0 : _0x193c91["owner"]) || "root", "group": (_0x193c91 == null ? void 0 : _0x193c91[_0x223033(354)]) || _0x223033(402), "modified": (_0x193c91 == null ? void 0 : _0x193c91[_0x223033(390)]) || _0x223033(357) };
+}
+const bashHistoryContent = _0x370da3(383) + NUL + _0x370da3(397), bashHistoryBakContent = _0x370da3(368);
+const fileSystem = createDir({ "home": createDir({ "theforeveriris": createDir({ "readme.txt": createFile("Welcome, theforeveriris.\nThis is your home directory.\nFeel free to look around.", { "permissions": _0x370da3(373), "owner": _0x370da3(369), "group": _0x370da3(369) }), "note.txt": createFile("Remember to check your history.\nSometimes the past holds the key to the future.\nBut not all history is visible at first glance.", { "permissions": _0x370da3(373), "owner": _0x370da3(369), "group": _0x370da3(369) }), ".bash_history": createFile(bashHistoryContent, { "permissions": "-rw-------", "owner": _0x370da3(369), "group": _0x370da3(369), "hasNul": !![], "size": 120 }), ".bash_history.bak": createFile(bashHistoryBakContent, { "permissions": _0x370da3(373), "owner": _0x370da3(369), "group": _0x370da3(369) }), ".viminfo": createFile(_0x370da3(352), { "permissions": _0x370da3(372), "owner": _0x370da3(369), "group": _0x370da3(369) }) }, { "permissions": _0x370da3(378), "owner": _0x370da3(369), "group": "theforeveriris" }) }, { "permissions": "drwxr-xr-x", "owner": _0x370da3(402), "group": _0x370da3(402) }), "etc": createDir({ "passwd": createFile(_0x370da3(371), { "permissions": _0x370da3(373), "owner": _0x370da3(402), "group": _0x370da3(402) }), "motd": createFile(_0x370da3(385), { "permissions": "-rw-r--r--", "owner": _0x370da3(402), "group": "root" }) }, { "permissions": _0x370da3(378), "owner": "root", "group": _0x370da3(402) }), "var": createDir({ "log": createDir({ "auth.log": createFile("", { "permissions": _0x370da3(377), "owner": _0x370da3(402), "group": _0x370da3(402) }) }, { "permissions": "drwxr-xr-x", "owner": "root", "group": _0x370da3(402) }) }, { "permissions": _0x370da3(378), "owner": "root", "group": "root" }), "tmp": createDir({ "cleanup.sh": createFile(_0x370da3(380), { "permissions": _0x370da3(373), "owner": _0x370da3(402), "group": _0x370da3(402) }) }, { "permissions": _0x370da3(353), "owner": "root", "group": _0x370da3(402) }), "usr": createDir({ "bin": createDir({}, { "permissions": _0x370da3(378), "owner": _0x370da3(402), "group": _0x370da3(402) }) }, { "permissions": _0x370da3(378), "owner": "root", "group": _0x370da3(402) }) });
+const envVars = { "PATH": _0x370da3(394), "HOME": _0x370da3(363), "USER": "theforeveriris", "SHELL": "/bin/bash", "HISTSIZE": "1000", "HISTFILESIZE": _0x370da3(398), "DECOY": _0x370da3(400), "_": "" };
+function resolvePath(_0x4f4944, _0x5915be) {
+  const _0x50300c = _0x370da3;
+  if (_0x5915be[_0x50300c(399)]("/")) return normalizePath(_0x5915be);
+  const _0x19dda3 = _0x4f4944[_0x50300c(392)]("/")[_0x50300c(389)](Boolean), _0x1f9cd1 = _0x5915be[_0x50300c(392)]("/");
+  for (const _0x338c85 of _0x1f9cd1) {
+    if (_0x338c85 === "..") {
+      if (_0x19dda3["length"] > 0) _0x19dda3[_0x50300c(393)]();
+    } else _0x338c85 !== "." && _0x338c85 !== "" && _0x19dda3[_0x50300c(360)](_0x338c85);
   }
-  return _0xc7bd69;
+  return "/" + _0x19dda3["join"]("/");
 }
-function getDirectoryContents(_0x86dbb1) {
-  const _0x366ce7 = _0x5520bc, _0xa973d5 = getNode(_0x86dbb1);
-  if (!_0xa973d5 || _0xa973d5[_0x366ce7(317)] !== "directory" || !_0xa973d5["children"]) return [];
-  return Object[_0x366ce7(329)](_0xa973d5[_0x366ce7(362)]);
+function normalizePath(_0x68317a) {
+  const _0xae61d5 = _0x370da3, _0x57b7cc = _0x68317a[_0xae61d5(392)]("/")[_0xae61d5(389)](Boolean), _0x519afa = [];
+  for (const _0x3266cb of _0x57b7cc) {
+    if (_0x3266cb === "..") {
+      if (_0x519afa[_0xae61d5(401)] > 0) _0x519afa[_0xae61d5(393)]();
+    } else _0x3266cb !== "." && _0x519afa[_0xae61d5(360)](_0x3266cb);
+  }
+  return "/" + _0x519afa["join"]("/");
 }
-function getFileContent(_0x32cb3f) {
-  const _0x7f3852 = _0x5520bc, _0x3418a5 = getNode(_0x32cb3f);
-  if (!_0x3418a5 || _0x3418a5[_0x7f3852(317)] !== _0x7f3852(355)) return null;
-  const _0x4c9e3a = _0x3418a5[_0x7f3852(331)] || "", _0xae1f27 = _0x4c9e3a[_0x7f3852(323)](NUL);
-  if (_0xae1f27 !== -1) return _0x4c9e3a[_0x7f3852(353)](0, _0xae1f27);
-  return _0x4c9e3a;
+function getNode(_0x28f45e) {
+  const _0x38ca8e = _0x370da3;
+  if (_0x28f45e === "/") return fileSystem;
+  const _0x262a18 = _0x28f45e[_0x38ca8e(392)]("/")[_0x38ca8e(389)](Boolean);
+  let _0x2dfdb8 = fileSystem;
+  for (const _0x2c47b1 of _0x262a18) {
+    if (_0x2dfdb8[_0x38ca8e(381)] !== _0x38ca8e(370) || !_0x2dfdb8["children"]) return null;
+    const _0x4b7b6f = _0x2dfdb8["children"][_0x2c47b1];
+    if (!_0x4b7b6f) return null;
+    _0x2dfdb8 = _0x4b7b6f;
+  }
+  return _0x2dfdb8;
 }
-function _0x5efc(_0x3820cd, _0x3324c6) {
-  _0x3820cd = _0x3820cd - 305;
-  const _0x36727b = _0x3672();
-  let _0x5efcc4 = _0x36727b[_0x3820cd];
-  return _0x5efcc4;
+function getDirectoryContents(_0xf38ea5) {
+  const _0x1ba4fe = _0x370da3, _0x539d42 = getNode(_0xf38ea5);
+  if (!_0x539d42 || _0x539d42[_0x1ba4fe(381)] !== _0x1ba4fe(370) || !_0x539d42[_0x1ba4fe(351)]) return [];
+  return Object[_0x1ba4fe(391)](_0x539d42[_0x1ba4fe(351)]);
 }
-function getFileStrings(_0x3c488a) {
-  const _0xa939d7 = _0x5520bc, _0x4a4b7b = getNode(_0x3c488a);
-  if (!_0x4a4b7b || _0x4a4b7b[_0xa939d7(317)] !== "file") return [];
-  const _0x2de0e7 = _0x4a4b7b[_0xa939d7(331)] || "", _0x43565d = [];
-  let _0x3b6150 = "";
-  for (const _0x390488 of _0x2de0e7) {
-    if (_0x390488 === NUL) _0x3b6150[_0xa939d7(314)] >= 4 && _0x43565d[_0xa939d7(336)](_0x3b6150), _0x3b6150 = "";
+function getFileContent(_0x483eb7) {
+  const _0x344d53 = _0x370da3, _0x356d88 = getNode(_0x483eb7);
+  if (!_0x356d88 || _0x356d88[_0x344d53(381)] !== _0x344d53(361)) return null;
+  const _0x4d8206 = _0x356d88[_0x344d53(358)] || "", _0x576c8 = _0x4d8206["indexOf"](NUL);
+  if (_0x576c8 !== -1) return _0x4d8206[_0x344d53(366)](0, _0x576c8);
+  return _0x4d8206;
+}
+function getFileStrings(_0x6e7b11) {
+  const _0x1fa5a9 = _0x370da3, _0x935db4 = getNode(_0x6e7b11);
+  if (!_0x935db4 || _0x935db4["type"] !== _0x1fa5a9(361)) return [];
+  const _0x400e7b = _0x935db4["content"] || "", _0x1f391a = [];
+  let _0x188960 = "";
+  for (const _0x2acd87 of _0x400e7b) {
+    if (_0x2acd87 === NUL) _0x188960["length"] >= 4 && _0x1f391a[_0x1fa5a9(360)](_0x188960), _0x188960 = "";
     else {
-      if (_0x390488["charCodeAt"](0) >= 32 && _0x390488[_0xa939d7(325)](0) <= 126) _0x3b6150 += _0x390488;
-      else _0x390488 === "\n" || _0x390488 === "	" ? (_0x3b6150[_0xa939d7(314)] >= 4 && _0x43565d["push"](_0x3b6150), _0x3b6150 = "") : (_0x3b6150["length"] >= 4 && _0x43565d["push"](_0x3b6150), _0x3b6150 = "");
+      if (_0x2acd87[_0x1fa5a9(367)](0) >= 32 && _0x2acd87[_0x1fa5a9(367)](0) <= 126) _0x188960 += _0x2acd87;
+      else _0x2acd87 === "\n" || _0x2acd87 === "	" ? (_0x188960[_0x1fa5a9(401)] >= 4 && _0x1f391a[_0x1fa5a9(360)](_0x188960), _0x188960 = "") : (_0x188960[_0x1fa5a9(401)] >= 4 && _0x1f391a[_0x1fa5a9(360)](_0x188960), _0x188960 = "");
     }
   }
-  return _0x3b6150[_0xa939d7(314)] >= 4 && _0x43565d[_0xa939d7(336)](_0x3b6150), _0x43565d;
+  return _0x188960[_0x1fa5a9(401)] >= 4 && _0x1f391a[_0x1fa5a9(360)](_0x188960), _0x1f391a;
 }
-function getFileInfo(_0x1fbdfb) {
-  const _0x54ed75 = _0x5520bc, _0x196356 = getNode(_0x1fbdfb);
-  if (!_0x196356) return null;
-  if (_0x196356[_0x54ed75(317)] === _0x54ed75(318)) return _0x54ed75(318);
-  const _0x45ad1a = _0x1fbdfb[_0x54ed75(345)]("/")[_0x54ed75(332)]() || "";
-  if (_0x45ad1a === ".bash_history" && _0x196356["hasNul"]) return _0x54ed75(307);
-  const _0x4c250a = _0x196356[_0x54ed75(331)] || "";
-  if (/^[\x20-\x7E\n\r\t]*$/["test"](_0x4c250a)) {
-    if (_0x45ad1a[_0x54ed75(310)](_0x54ed75(354))) return _0x54ed75(321);
-    return _0x54ed75(328);
+function getFileInfo(_0x1c9d82) {
+  const _0x266777 = _0x370da3, _0x14018b = getNode(_0x1c9d82);
+  if (!_0x14018b) return null;
+  if (_0x14018b[_0x266777(381)] === "directory") return _0x266777(370);
+  const _0x4364fa = _0x1c9d82[_0x266777(392)]("/")[_0x266777(393)]() || "";
+  if (_0x4364fa === _0x266777(350) && _0x14018b[_0x266777(396)]) return _0x266777(387);
+  const _0x45507a = _0x14018b[_0x266777(358)] || "";
+  if (/^[\x20-\x7E\n\r\t]*$/[_0x266777(386)](_0x45507a)) {
+    if (_0x4364fa[_0x266777(382)](".sh")) return _0x266777(404);
+    return _0x266777(355);
   }
-  return "data";
+  return _0x266777(375);
 }
-function appendToFile(_0x4bd40c, _0x18d110) {
-  const _0x1e61b6 = _0x5520bc, _0x45ea36 = getNode(_0x4bd40c);
-  _0x45ea36 && _0x45ea36["type"] === _0x1e61b6(355) && (_0x45ea36[_0x1e61b6(331)] = (_0x45ea36[_0x1e61b6(331)] || "") + _0x18d110);
+function appendToFile(_0x5056af, _0x14d099) {
+  const _0x48acc5 = _0x370da3, _0x300c2c = getNode(_0x5056af);
+  _0x300c2c && _0x300c2c[_0x48acc5(381)] === _0x48acc5(361) && (_0x300c2c[_0x48acc5(358)] = (_0x300c2c["content"] || "") + _0x14d099);
 }
-(function(_0x45551d, _0x2dc132) {
-  const _0x51e69c = _0xd391, _0xcd6418 = _0x45551d();
+const _0x4edf47 = _0x32aa;
+(function(_0xda7efe, _0xa29bf) {
+  const _0x10b8d1 = _0x32aa, _0x4aae23 = _0xda7efe();
   while (!![]) {
     try {
-      const _0x1c9448 = parseInt(_0x51e69c(204)) / 1 + parseInt(_0x51e69c(182)) / 2 * (-parseInt(_0x51e69c(235)) / 3) + parseInt(_0x51e69c(174)) / 4 + parseInt(_0x51e69c(159)) / 5 * (parseInt(_0x51e69c(223)) / 6) + -parseInt(_0x51e69c(157)) / 7 + -parseInt(_0x51e69c(185)) / 8 * (parseInt(_0x51e69c(191)) / 9) + parseInt(_0x51e69c(200)) / 10;
-      if (_0x1c9448 === _0x2dc132) break;
-      else _0xcd6418["push"](_0xcd6418["shift"]());
-    } catch (_0x4faf76) {
-      _0xcd6418["push"](_0xcd6418["shift"]());
+      const _0xfd73df = parseInt(_0x10b8d1(294)) / 1 + -parseInt(_0x10b8d1(284)) / 2 * (parseInt(_0x10b8d1(312)) / 3) + -parseInt(_0x10b8d1(348)) / 4 + -parseInt(_0x10b8d1(344)) / 5 + parseInt(_0x10b8d1(364)) / 6 * (parseInt(_0x10b8d1(368)) / 7) + parseInt(_0x10b8d1(353)) / 8 * (parseInt(_0x10b8d1(310)) / 9) + -parseInt(_0x10b8d1(330)) / 10 * (parseInt(_0x10b8d1(309)) / 11);
+      if (_0xfd73df === _0xa29bf) break;
+      else _0x4aae23["push"](_0x4aae23["shift"]());
+    } catch (_0x4cd2ba) {
+      _0x4aae23["push"](_0x4aae23["shift"]());
     }
   }
-})(_0x2245, 855008);
-function _0x2245() {
-  const _0x3e32a4 = ["4877181zPdcfF", "group", "includes", "Available commands:\n  ls          List directory contents\n  ls -a       List all files (including hidden)\n  ls -l       List in long format\n  cd <dir>    Change directory\n  cat <file>  Display file contents\n  strings <file>  Extract printable strings\n  echo <text> Print text\n  pwd         Print working directory\n  whoami      Print current user\n  env         Display environment variables\n  file <file> Determine file type\n  history     Show command history\n  base64 -d <str>  Decode base64 string\n  vigenere <ct> <key>  Decrypt Vigenere cipher\n  su          Switch user\n  rm <file>   Remove files\n  clear       Clear terminal\n  help        Show this help message\n  exit        Exit terminal", "logout", "length", "test", "drwxr-xr-x  2 theforeveriris theforeveriris  4096 Jun 15 14:32 ", "cat: ", "24739180etUEsz", "env", "Account locked due to too many failed attempts.", "max", "26022Tryxwp", "The garden gate is open.", "Usage: base64 -d <string>", ": No such file", "root", "Hint: Return to the homepage (#) to continue...", "currentPath", "': Is a directory", "slice", "exit", "Welcome, ", "type", "ls: cannot access '", "error", "isLoggedIn", "find", "isCrashed", "iris://findmeinflowers", "open", "2825382kGUbxQ", "Password:\n", "padStart", "toUpperCase", "/var/log/auth.log", "help", "username", "commandHistory", "map", " attempt(s) remaining)", "/home/theforeveriris", "system", "15ebZjeO", "iris: unknown protocol '", "cat: missing operand", "whoami", ": Not a directory", "replace", "su: Authentication failure (", "suAttempts", "isAccountLocked", "cd: ", "join", "newPath", "vigenere", "strings: missing operand", "modified", "size", "strings", ": Is a directory", "directory", "': No such file or directory", "rm: missing operand", "entries", "drwxr-xr-x  2 root root  4096 Jun 15 14:32 ", "3163965GaPeDd", "outputs", "5WXbCxk", "push", "setItem", "currentUser", "startsWith", "vigdec", "iris: missing operand\nUsage: iris <protocol>", 'System halted. Type "reset" to restart.', "-rf", "file", "drwxr-xr-x", "[LOCKED] Authentication failure for user ", "base64", "@iris:", "historyIndex", "3426916EwvdEw", "vigenere: key must contain only digits (0-9)", "iris", "success", ": No such file or directory", "history", "\n[NOTE] Remember: the truth is often in plain sight, but not in plain text.\n", "clear", "574698aIahQH", ": cannot open (No such file or directory)", "base64: invalid input", "16KMCgLs", "Jun 15 14:32", "strings: ", "rm: cannot remove '", "file: missing operand", "output"];
-  _0x2245 = function() {
-    return _0x3e32a4;
-  };
-  return _0x2245();
+})(_0x2eae, 166129);
+function _0x32aa(_0x2a340c, _0x9eaa6c) {
+  _0x2a340c = _0x2a340c - 278;
+  const _0x2eaee1 = _0x2eae();
+  let _0x32aab5 = _0x2eaee1[_0x2a340c];
+  return _0x32aab5;
 }
-const useTerminalStore = create((_0x933047, _0x3bb6c6) => ({ "isLoggedIn": ![], "currentUser": "", "currentPath": "/home/theforeveriris", "commandHistory": [], "historyIndex": -1, "suAttempts": 0, "isAccountLocked": ![], "outputs": [], "isCrashed": ![], "login": (_0x5a24fe, _0x1fe753) => {
-  const _0x322534 = _0xd391;
-  if (_0x5a24fe === CREDENTIALS[_0x322534(229)] && _0x1fe753 === CREDENTIALS["password"]) return _0x933047({ "isLoggedIn": !![], "currentUser": _0x5a24fe, "currentPath": _0x322534(233), "outputs": [{ "type": _0x322534(234), "content": _0x322534(214) + _0x5a24fe + "." }] }), !![];
+const useTerminalStore = create((_0x1696f1, _0xba4d4a) => ({ "isLoggedIn": ![], "currentUser": "", "currentPath": _0x4edf47(278), "commandHistory": [], "historyIndex": -1, "suAttempts": 0, "isAccountLocked": ![], "outputs": [], "isCrashed": ![], "login": (_0x2880a9, _0x17aa95) => {
+  const _0x340776 = _0x4edf47;
+  if (_0x2880a9 === CREDENTIALS["username"] && _0x17aa95 === CREDENTIALS[_0x340776(326)]) return _0x1696f1({ "isLoggedIn": !![], "currentUser": _0x2880a9, "currentPath": "/home/theforeveriris", "outputs": [{ "type": _0x340776(288), "content": _0x340776(328) + _0x2880a9 + "." }] }), !![];
   return ![];
 }, "logout": () => {
-  _0x933047({ "isLoggedIn": ![], "currentUser": "", "currentPath": "/home/theforeveriris", "suAttempts": 0, "isAccountLocked": ![], "outputs": [], "isCrashed": ![] });
-}, "executeCommand": (_0x380910) => {
-  const _0x475322 = _0xd391, _0x136e1b = _0x3bb6c6();
-  if (_0x136e1b["isCrashed"]) {
-    _0x933047({ "outputs": [..._0x136e1b["outputs"], { "type": _0x475322(217), "content": _0x475322(166) }] });
+  const _0x4f6477 = _0x4edf47;
+  _0x1696f1({ "isLoggedIn": ![], "currentUser": "", "currentPath": _0x4f6477(278), "suAttempts": 0, "isAccountLocked": ![], "outputs": [], "isCrashed": ![] });
+}, "executeCommand": (_0x308b09) => {
+  const _0x1d8e97 = _0x4edf47, _0x83e9df = _0xba4d4a();
+  if (_0x83e9df["isCrashed"]) {
+    _0x1696f1({ "outputs": [..._0x83e9df["outputs"], { "type": _0x1d8e97(327), "content": _0x1d8e97(372) }] });
     return;
   }
-  const _0x10ab2f = _0x380910["trim"]();
-  if (!_0x10ab2f) return;
-  const _0x34a0f5 = [{ "type": "input", "content": _0x136e1b[_0x475322(162)] + _0x475322(172) + _0x136e1b[_0x475322(210)] + "$ " + _0x10ab2f }], _0x3f5645 = [..._0x136e1b[_0x475322(230)], _0x10ab2f], _0x2fc011 = _0x10ab2f["split"](/\s+/), _0xf11159 = _0x2fc011[0], _0x2f21db = _0x2fc011[_0x475322(212)](1), _0x2508b7 = processCommand(_0xf11159, _0x2f21db, _0x136e1b);
-  _0x933047({ "outputs": [..._0x136e1b[_0x475322(158)], ..._0x34a0f5, ..._0x2508b7["outputs"]], "commandHistory": _0x3f5645, "historyIndex": -1, "currentPath": _0x2508b7[_0x475322(145)] !== void 0 ? _0x2508b7[_0x475322(145)] : _0x136e1b["currentPath"], "isCrashed": _0x2508b7[_0x475322(220)] || ![], "suAttempts": _0x2508b7[_0x475322(141)] !== void 0 ? _0x2508b7[_0x475322(141)] : _0x136e1b["suAttempts"], "isAccountLocked": _0x2508b7["isAccountLocked"] !== void 0 ? _0x2508b7[_0x475322(142)] : _0x136e1b[_0x475322(142)], "isLoggedIn": _0x2508b7["isLoggedIn"] !== void 0 ? _0x2508b7[_0x475322(218)] : _0x136e1b["isLoggedIn"], "currentUser": _0x2508b7[_0x475322(162)] !== void 0 ? _0x2508b7[_0x475322(162)] : _0x136e1b["currentUser"] });
+  const _0x2a883c = _0x308b09[_0x1d8e97(292)]();
+  if (!_0x2a883c) return;
+  const _0xf17a84 = [{ "type": "input", "content": _0x83e9df[_0x1d8e97(313)] + _0x1d8e97(299) + _0x83e9df[_0x1d8e97(289)] + "$ " + _0x2a883c }], _0x16eec8 = [..._0x83e9df["commandHistory"], _0x2a883c], _0x48140f = _0x2a883c["split"](/\s+/), _0x3c037b = _0x48140f[0], _0x274784 = _0x48140f[_0x1d8e97(373)](1), _0x91f31 = processCommand(_0x3c037b, _0x274784, _0x83e9df);
+  _0x1696f1({ "outputs": [..._0x83e9df["outputs"], ..._0xf17a84, ..._0x91f31[_0x1d8e97(311)]], "commandHistory": _0x16eec8, "historyIndex": -1, "currentPath": _0x91f31[_0x1d8e97(279)] !== void 0 ? _0x91f31[_0x1d8e97(279)] : _0x83e9df[_0x1d8e97(289)], "isCrashed": _0x91f31[_0x1d8e97(358)] || ![], "suAttempts": _0x91f31[_0x1d8e97(351)] !== void 0 ? _0x91f31[_0x1d8e97(351)] : _0x83e9df[_0x1d8e97(351)], "isAccountLocked": _0x91f31["isAccountLocked"] !== void 0 ? _0x91f31[_0x1d8e97(300)] : _0x83e9df[_0x1d8e97(300)], "isLoggedIn": _0x91f31["isLoggedIn"] !== void 0 ? _0x91f31[_0x1d8e97(318)] : _0x83e9df[_0x1d8e97(318)], "currentUser": _0x91f31["currentUser"] !== void 0 ? _0x91f31[_0x1d8e97(313)] : _0x83e9df[_0x1d8e97(313)] });
 }, "clearOutputs": () => {
-  _0x933047({ "outputs": [] });
-}, "navigateHistory": (_0x5dcb41) => {
-  const _0x3cc32c = _0xd391, _0x59b034 = _0x3bb6c6(), _0x2a4e9a = _0x59b034["commandHistory"];
-  if (_0x2a4e9a[_0x3cc32c(196)] === 0) return "";
-  let _0x271a3f;
-  if (_0x5dcb41 === "up") _0x271a3f = _0x59b034["historyIndex"] === -1 ? _0x2a4e9a[_0x3cc32c(196)] - 1 : Math[_0x3cc32c(203)](0, _0x59b034["historyIndex"] - 1);
+  _0x1696f1({ "outputs": [] });
+}, "navigateHistory": (_0x3a8d02) => {
+  const _0x8fd4a3 = _0x4edf47, _0x4e9e2b = _0xba4d4a(), _0x3d1ebd = _0x4e9e2b[_0x8fd4a3(333)];
+  if (_0x3d1ebd[_0x8fd4a3(345)] === 0) return "";
+  let _0x590b5;
+  if (_0x3a8d02 === "up") _0x590b5 = _0x4e9e2b[_0x8fd4a3(332)] === -1 ? _0x3d1ebd["length"] - 1 : Math["max"](0, _0x4e9e2b[_0x8fd4a3(332)] - 1);
   else {
-    _0x271a3f = _0x59b034["historyIndex"] === -1 ? -1 : _0x59b034[_0x3cc32c(173)] + 1;
-    if (_0x271a3f >= _0x2a4e9a[_0x3cc32c(196)]) _0x271a3f = -1;
+    _0x590b5 = _0x4e9e2b[_0x8fd4a3(332)] === -1 ? -1 : _0x4e9e2b[_0x8fd4a3(332)] + 1;
+    if (_0x590b5 >= _0x3d1ebd["length"]) _0x590b5 = -1;
   }
-  return _0x933047({ "historyIndex": _0x271a3f }), _0x271a3f === -1 ? "" : _0x2a4e9a[_0x271a3f];
+  return _0x1696f1({ "historyIndex": _0x590b5 }), _0x590b5 === -1 ? "" : _0x3d1ebd[_0x590b5];
 }, "resetCrash": () => {
-  const _0x809a51 = _0xd391;
-  _0x933047({ "isCrashed": ![], "outputs": [], "currentPath": _0x809a51(233) });
+  const _0x4ffad2 = _0x4edf47;
+  _0x1696f1({ "isCrashed": ![], "outputs": [], "currentPath": _0x4ffad2(278) });
 } }));
-function processCommand(_0x4f4ca8, _0x1884f0, _0x2e5a8f) {
-  const _0x14dca1 = _0xd391;
-  switch (_0x4f4ca8) {
+function processCommand(_0x311bd0, _0x26273e, _0x1b745c) {
+  const _0x287ec0 = _0x4edf47;
+  switch (_0x311bd0) {
     case "ls":
-      return cmdLs(_0x1884f0, _0x2e5a8f);
+      return cmdLs(_0x26273e, _0x1b745c);
     case "cd":
-      return cmdCd(_0x1884f0, _0x2e5a8f);
-    case "cat":
-      return cmdCat(_0x1884f0, _0x2e5a8f);
-    case _0x14dca1(150):
-      return cmdStrings(_0x1884f0, _0x2e5a8f);
-    case "echo":
-      return cmdEcho(_0x1884f0);
-    case "pwd":
-      return { "outputs": [{ "type": "output", "content": _0x2e5a8f[_0x14dca1(210)] }] };
-    case _0x14dca1(137):
-      return { "outputs": [{ "type": "output", "content": _0x2e5a8f[_0x14dca1(162)] }] };
-    case _0x14dca1(201):
+      return cmdCd(_0x26273e, _0x1b745c);
+    case _0x287ec0(342):
+      return cmdCat(_0x26273e, _0x1b745c);
+    case _0x287ec0(354):
+      return cmdStrings(_0x26273e, _0x1b745c);
+    case _0x287ec0(335):
+      return cmdEcho(_0x26273e);
+    case _0x287ec0(317):
+      return { "outputs": [{ "type": "output", "content": _0x1b745c[_0x287ec0(289)] }] };
+    case _0x287ec0(367):
+      return { "outputs": [{ "type": _0x287ec0(305), "content": _0x1b745c[_0x287ec0(313)] }] };
+    case _0x287ec0(290):
       return cmdEnv();
-    case _0x14dca1(181):
+    case "clear":
       return { "outputs": [] };
-    case _0x14dca1(228):
+    case _0x287ec0(343):
       return cmdHelp();
-    case _0x14dca1(179):
+    case _0x287ec0(304):
       return cmdHistory();
-    case _0x14dca1(168):
-      return cmdFile(_0x1884f0, _0x2e5a8f);
-    case _0x14dca1(171):
-      return cmdBase64(_0x1884f0);
+    case _0x287ec0(340):
+      return cmdFile(_0x26273e, _0x1b745c);
+    case _0x287ec0(286):
+      return cmdBase64(_0x26273e);
     case "su":
-      return cmdSu(_0x1884f0, _0x2e5a8f);
-    case _0x14dca1(213):
-      return { "outputs": [{ "type": "system", "content": _0x14dca1(195) }], "isLoggedIn": ![], "currentUser": "" };
+      return cmdSu(_0x26273e, _0x1b745c);
+    case _0x287ec0(350):
+      return { "outputs": [{ "type": _0x287ec0(288), "content": _0x287ec0(293) }], "isLoggedIn": ![], "currentUser": "" };
     case "rm":
-      return cmdRm(_0x1884f0, _0x2e5a8f);
-    case _0x14dca1(176):
-      return cmdIris(_0x1884f0);
-    case _0x14dca1(146):
-      return cmdVigenere(_0x1884f0);
-    case _0x14dca1(164):
-      return cmdVigenere(_0x1884f0);
-    case "reset":
+      return cmdRm(_0x26273e, _0x1b745c);
+    case "iris":
+      return cmdIris(_0x26273e);
+    case _0x287ec0(296):
+      return cmdVigenere(_0x26273e);
+    case "vigdec":
+      return cmdVigenere(_0x26273e);
+    case _0x287ec0(374):
       return { "outputs": [], "isCrashed": ![] };
     default:
-      return { "outputs": [{ "type": "error", "content": _0x4f4ca8 + ": command not found" }] };
+      return { "outputs": [{ "type": _0x287ec0(327), "content": _0x311bd0 + _0x287ec0(355) }] };
   }
 }
-function cmdLs(_0x4881d7, _0x16045e) {
-  const _0x581998 = _0xd391, _0x4c3fe = _0x4881d7[_0x581998(193)]("-a"), _0x5ba2bc = _0x4881d7[_0x581998(193)]("-l"), _0x3a4a24 = _0x4881d7[_0x581998(219)]((_0x3a26d8) => !_0x3a26d8["startsWith"]("-")), _0x35e5fe = _0x3a4a24 ? resolvePath(_0x16045e[_0x581998(210)], _0x3a4a24) : _0x16045e["currentPath"], _0x2c156f = getNode(_0x35e5fe);
-  if (!_0x2c156f) return { "outputs": [{ "type": _0x581998(217), "content": _0x581998(216) + _0x3a4a24 + _0x581998(153) }] };
-  if (_0x2c156f[_0x581998(215)] !== _0x581998(152)) return { "outputs": [{ "type": _0x581998(190), "content": _0x3a4a24 || _0x35e5fe }] };
-  let _0x497c09 = getDirectoryContents(_0x35e5fe);
-  !_0x4c3fe ? _0x497c09 = _0x497c09["filter"]((_0x51aeea) => !_0x51aeea[_0x581998(163)](".")) : _0x497c09 = [".", "..", ..._0x497c09];
-  if (_0x5ba2bc) {
-    const _0xe70aac = _0x497c09[_0x581998(231)]((_0x1f27e6) => {
+function cmdLs(_0x220ad6, _0x17cbd9) {
+  const _0x569065 = _0x4edf47, _0xb987e8 = _0x220ad6["includes"]("-a"), _0x4a4bc9 = _0x220ad6["includes"]("-l"), _0x36993f = _0x220ad6["find"]((_0x324e22) => !_0x324e22[_0x569065(375)]("-")), _0x3a0f85 = _0x36993f ? resolvePath(_0x17cbd9["currentPath"], _0x36993f) : _0x17cbd9[_0x569065(289)], _0x35bf66 = getNode(_0x3a0f85);
+  if (!_0x35bf66) return { "outputs": [{ "type": _0x569065(327), "content": _0x569065(337) + _0x36993f + _0x569065(379) }] };
+  if (_0x35bf66[_0x569065(314)] !== _0x569065(349)) return { "outputs": [{ "type": _0x569065(305), "content": _0x36993f || _0x3a0f85 }] };
+  let _0x27e78f = getDirectoryContents(_0x3a0f85);
+  !_0xb987e8 ? _0x27e78f = _0x27e78f[_0x569065(283)]((_0x285e98) => !_0x285e98["startsWith"](".")) : _0x27e78f = [".", "..", ..._0x27e78f];
+  if (_0x4a4bc9) {
+    const _0x404686 = _0x27e78f[_0x569065(282)]((_0x5eeb54) => {
       var _a;
-      const _0x4dbad9 = _0x581998;
-      if (_0x1f27e6 === "." || _0x1f27e6 === "..") return _0x4dbad9(198) + _0x1f27e6;
-      const _0x14ae39 = (_a = _0x2c156f["children"]) == null ? void 0 : _a[_0x1f27e6];
-      if (!_0x14ae39) return _0x4dbad9(156) + _0x1f27e6;
-      const _0x5083bc = _0x14ae39["permissions"] || (_0x14ae39[_0x4dbad9(215)] === _0x4dbad9(152) ? _0x4dbad9(169) : "-rw-r--r--"), _0x2efc1f = _0x14ae39["owner"] || _0x4dbad9(208), _0x538e00 = _0x14ae39[_0x4dbad9(192)] || _0x4dbad9(208), _0x1fc59c = _0x14ae39["type"] === _0x4dbad9(168) ? _0x14ae39[_0x4dbad9(149)] || 0 : 4096, _0x2bd9b8 = _0x14ae39[_0x4dbad9(148)] || _0x4dbad9(186);
-      return _0x5083bc + "  1 " + _0x2efc1f + " " + _0x538e00 + " " + String(_0x1fc59c)[_0x4dbad9(225)](5) + " " + _0x2bd9b8 + " " + _0x1f27e6;
+      const _0x3c2a5a = _0x569065;
+      if (_0x5eeb54 === "." || _0x5eeb54 === "..") return _0x3c2a5a(319) + _0x5eeb54;
+      const _0x1df450 = (_a = _0x35bf66[_0x3c2a5a(303)]) == null ? void 0 : _a[_0x5eeb54];
+      if (!_0x1df450) return _0x3c2a5a(376) + _0x5eeb54;
+      const _0x1ca419 = _0x1df450[_0x3c2a5a(295)] || (_0x1df450[_0x3c2a5a(314)] === _0x3c2a5a(349) ? "drwxr-xr-x" : _0x3c2a5a(360)), _0x2974ef = _0x1df450[_0x3c2a5a(302)] || _0x3c2a5a(336), _0x4c063b = _0x1df450["group"] || _0x3c2a5a(336), _0x5ee6f3 = _0x1df450[_0x3c2a5a(314)] === _0x3c2a5a(340) ? _0x1df450["size"] || 0 : 4096, _0x557e45 = _0x1df450["modified"] || _0x3c2a5a(359);
+      return _0x1ca419 + _0x3c2a5a(322) + _0x2974ef + " " + _0x4c063b + " " + String(_0x5ee6f3)[_0x3c2a5a(339)](5) + " " + _0x557e45 + " " + _0x5eeb54;
     });
-    return { "outputs": [{ "type": _0x581998(190), "content": _0xe70aac["join"]("\n") }] };
+    return { "outputs": [{ "type": _0x569065(305), "content": _0x404686["join"]("\n") }] };
   }
-  return { "outputs": [{ "type": _0x581998(190), "content": _0x497c09["join"]("  ") }] };
+  return { "outputs": [{ "type": _0x569065(305), "content": _0x27e78f[_0x569065(370)]("  ") }] };
 }
-function cmdCd(_0x3b3fe9, _0x2d974c) {
-  const _0x423c46 = _0xd391;
-  if (_0x3b3fe9[_0x423c46(196)] === 0 || _0x3b3fe9[0] === "~") return { "outputs": [], "newPath": "/home/theforeveriris" };
-  const _0x54c876 = resolvePath(_0x2d974c[_0x423c46(210)], _0x3b3fe9[0]), _0x10be89 = getNode(_0x54c876);
-  if (!_0x10be89) return { "outputs": [{ "type": _0x423c46(217), "content": _0x423c46(143) + _0x3b3fe9[0] + _0x423c46(178) }] };
-  if (_0x10be89[_0x423c46(215)] !== _0x423c46(152)) return { "outputs": [{ "type": _0x423c46(217), "content": _0x423c46(143) + _0x3b3fe9[0] + _0x423c46(138) }] };
-  return { "outputs": [], "newPath": _0x54c876 };
+function cmdCd(_0x2d472f, _0x2b6d98) {
+  const _0x404963 = _0x4edf47;
+  if (_0x2d472f[_0x404963(345)] === 0 || _0x2d472f[0] === "~") return { "outputs": [], "newPath": _0x404963(278) };
+  const _0x306dbb = resolvePath(_0x2b6d98[_0x404963(289)], _0x2d472f[0]), _0x349a5e = getNode(_0x306dbb);
+  if (!_0x349a5e) return { "outputs": [{ "type": _0x404963(327), "content": _0x404963(285) + _0x2d472f[0] + _0x404963(369) }] };
+  if (_0x349a5e[_0x404963(314)] !== "directory") return { "outputs": [{ "type": "error", "content": "cd: " + _0x2d472f[0] + _0x404963(287) }] };
+  return { "outputs": [], "newPath": _0x306dbb };
 }
-function cmdCat(_0x20fb58, _0x520a7f) {
-  const _0x5aa1c0 = _0xd391;
-  if (_0x20fb58[_0x5aa1c0(196)] === 0) return { "outputs": [{ "type": _0x5aa1c0(217), "content": _0x5aa1c0(136) }] };
-  const _0xbb037a = [];
-  for (const _0x5b356b of _0x20fb58) {
-    const _0x413080 = resolvePath(_0x520a7f[_0x5aa1c0(210)], _0x5b356b), _0x59dbad = getFileContent(_0x413080);
-    if (_0x59dbad === null) {
-      const _0x422ebc = getNode(_0x413080);
-      _0x422ebc && _0x422ebc[_0x5aa1c0(215)] === _0x5aa1c0(152) ? _0xbb037a[_0x5aa1c0(160)]({ "type": "error", "content": "cat: " + _0x5b356b + _0x5aa1c0(151) }) : _0xbb037a[_0x5aa1c0(160)]({ "type": _0x5aa1c0(217), "content": _0x5aa1c0(199) + _0x5b356b + _0x5aa1c0(178) });
-    } else _0xbb037a[_0x5aa1c0(160)]({ "type": _0x5aa1c0(190), "content": _0x59dbad });
+function cmdCat(_0x1e48b8, _0x589bdd) {
+  const _0x2b1782 = _0x4edf47;
+  if (_0x1e48b8[_0x2b1782(345)] === 0) return { "outputs": [{ "type": _0x2b1782(327), "content": _0x2b1782(352) }] };
+  const _0x4f4ac1 = [];
+  for (const _0xe496a2 of _0x1e48b8) {
+    const _0x6012f9 = resolvePath(_0x589bdd["currentPath"], _0xe496a2), _0x596c0e = getFileContent(_0x6012f9);
+    if (_0x596c0e === null) {
+      const _0x2fb379 = getNode(_0x6012f9);
+      _0x2fb379 && _0x2fb379[_0x2b1782(314)] === _0x2b1782(349) ? _0x4f4ac1[_0x2b1782(377)]({ "type": _0x2b1782(327), "content": _0x2b1782(307) + _0xe496a2 + ": Is a directory" }) : _0x4f4ac1[_0x2b1782(377)]({ "type": _0x2b1782(327), "content": _0x2b1782(307) + _0xe496a2 + _0x2b1782(369) });
+    } else _0x4f4ac1[_0x2b1782(377)]({ "type": _0x2b1782(305), "content": _0x596c0e });
   }
-  return { "outputs": _0xbb037a };
+  return { "outputs": _0x4f4ac1 };
 }
-function cmdStrings(_0x42a986, _0x32a863) {
-  const _0x120cdd = _0xd391;
-  if (_0x42a986[_0x120cdd(196)] === 0) return { "outputs": [{ "type": _0x120cdd(217), "content": _0x120cdd(147) }] };
-  const _0x33c8c5 = resolvePath(_0x32a863["currentPath"], _0x42a986[0]), _0x551c10 = getFileStrings(_0x33c8c5);
-  if (_0x551c10[_0x120cdd(196)] === 0) {
-    const _0x3cf342 = getNode(_0x33c8c5);
-    if (!_0x3cf342) return { "outputs": [{ "type": _0x120cdd(217), "content": _0x120cdd(187) + _0x42a986[0] + _0x120cdd(207) }] };
+function cmdStrings(_0x2e92c7, _0x441078) {
+  const _0x5a114f = _0x4edf47;
+  if (_0x2e92c7[_0x5a114f(345)] === 0) return { "outputs": [{ "type": _0x5a114f(327), "content": _0x5a114f(315) }] };
+  const _0x1ad578 = resolvePath(_0x441078[_0x5a114f(289)], _0x2e92c7[0]), _0x2bc6f7 = getFileStrings(_0x1ad578);
+  if (_0x2bc6f7["length"] === 0) {
+    const _0x2700e0 = getNode(_0x1ad578);
+    if (!_0x2700e0) return { "outputs": [{ "type": _0x5a114f(327), "content": _0x5a114f(356) + _0x2e92c7[0] + ": No such file" }] };
     return { "outputs": [] };
   }
-  return { "outputs": [{ "type": "output", "content": _0x551c10[_0x120cdd(144)]("\n") }] };
+  return { "outputs": [{ "type": _0x5a114f(305), "content": _0x2bc6f7[_0x5a114f(370)]("\n") }] };
 }
-function _0xd391(_0xcda5ab, _0x175134) {
-  _0xcda5ab = _0xcda5ab - 135;
-  const _0x22450b = _0x2245();
-  let _0xd39118 = _0x22450b[_0xcda5ab];
-  return _0xd39118;
-}
-function cmdEcho(_0x1eb0bf) {
-  const _0xb8eeb5 = _0xd391, _0x5b4a52 = _0x1eb0bf[_0xb8eeb5(144)](" ")[_0xb8eeb5(139)](/^"(.*)"$/, "$1")[_0xb8eeb5(139)](/^'(.*)'$/, "$1");
-  return { "outputs": [{ "type": _0xb8eeb5(190), "content": _0x5b4a52 }] };
+function cmdEcho(_0x521cf1) {
+  const _0x3b194d = _0x4edf47, _0x3c7574 = _0x521cf1[_0x3b194d(370)](" ")[_0x3b194d(347)](/^"(.*)"$/, "$1")[_0x3b194d(347)](/^'(.*)'$/, "$1");
+  return { "outputs": [{ "type": _0x3b194d(305), "content": _0x3c7574 }] };
 }
 function cmdEnv() {
-  const _0xbde608 = _0xd391, _0x4f9fc2 = Object[_0xbde608(155)](envVars)["filter"](([_0x79e6a2]) => _0x79e6a2 !== "_")[_0xbde608(231)](([_0x41f49b, _0x43c677]) => _0x41f49b + "=" + _0x43c677);
-  return { "outputs": [{ "type": "output", "content": _0x4f9fc2[_0xbde608(144)]("\n") }] };
+  const _0x5761df = _0x4edf47, _0x43539c = Object[_0x5761df(365)](envVars)[_0x5761df(283)](([_0x9d4597]) => _0x9d4597 !== "_")[_0x5761df(282)](([_0x4e0961, _0x530ebe]) => _0x4e0961 + "=" + _0x530ebe);
+  return { "outputs": [{ "type": _0x5761df(305), "content": _0x43539c[_0x5761df(370)]("\n") }] };
 }
 function cmdHelp() {
-  const _0xf0af8d = _0xd391, _0x17a0e0 = _0xf0af8d(194);
-  return { "outputs": [{ "type": _0xf0af8d(190), "content": _0x17a0e0 }] };
+  const _0x484ca6 = _0x4edf47, _0x3b302c = _0x484ca6(324);
+  return { "outputs": [{ "type": _0x484ca6(305), "content": _0x3b302c }] };
 }
-function cmdHistory(_0x14bbf3) {
-  const _0x5815e4 = _0xd391, _0x3f2329 = HISTORY_ENTRIES["map"]((_0x81077c, _0x1ab33d) => "  " + (_0x1ab33d + 1) + "  " + _0x81077c);
-  return { "outputs": [{ "type": "output", "content": _0x3f2329[_0x5815e4(144)]("\n") }] };
+function cmdHistory(_0x4e2e7e) {
+  const _0x284cc8 = _0x4edf47, _0x1ece8c = HISTORY_ENTRIES[_0x284cc8(282)]((_0x472fe0, _0x429d0a) => "  " + (_0x429d0a + 1) + "  " + _0x472fe0);
+  return { "outputs": [{ "type": _0x284cc8(305), "content": _0x1ece8c["join"]("\n") }] };
 }
-function cmdFile(_0x10d1e3, _0x309fd9) {
-  const _0x2f7c85 = _0xd391;
-  if (_0x10d1e3[_0x2f7c85(196)] === 0) return { "outputs": [{ "type": _0x2f7c85(217), "content": _0x2f7c85(189) }] };
-  const _0x3589b6 = resolvePath(_0x309fd9[_0x2f7c85(210)], _0x10d1e3[0]), _0x51073e = getFileInfo(_0x3589b6);
-  if (!_0x51073e) return { "outputs": [{ "type": "error", "content": _0x10d1e3[0] + _0x2f7c85(183) }] };
-  return { "outputs": [{ "type": _0x2f7c85(190), "content": _0x10d1e3[0] + ": " + _0x51073e }] };
+function cmdFile(_0x187646, _0x4eca91) {
+  const _0xa33733 = _0x4edf47;
+  if (_0x187646[_0xa33733(345)] === 0) return { "outputs": [{ "type": _0xa33733(327), "content": _0xa33733(320) }] };
+  const _0xfd3c99 = resolvePath(_0x4eca91[_0xa33733(289)], _0x187646[0]), _0x2d4042 = getFileInfo(_0xfd3c99);
+  if (!_0x2d4042) return { "outputs": [{ "type": _0xa33733(327), "content": _0x187646[0] + _0xa33733(366) }] };
+  return { "outputs": [{ "type": _0xa33733(305), "content": _0x187646[0] + ": " + _0x2d4042 }] };
 }
-function cmdBase64(_0x1326c7) {
-  const _0x194afe = _0xd391;
-  if (_0x1326c7[_0x194afe(196)] < 2 || _0x1326c7[0] !== "-d") return { "outputs": [{ "type": _0x194afe(217), "content": _0x194afe(206) }] };
+function cmdBase64(_0x988429) {
+  const _0x509751 = _0x4edf47;
+  if (_0x988429["length"] < 2 || _0x988429[0] !== "-d") return { "outputs": [{ "type": _0x509751(327), "content": _0x509751(371) }] };
   try {
-    const _0x11c4a3 = atob(_0x1326c7[1]);
-    return { "outputs": [{ "type": _0x194afe(190), "content": _0x11c4a3 }] };
+    const _0x22d274 = atob(_0x988429[1]);
+    return { "outputs": [{ "type": _0x509751(305), "content": _0x22d274 }] };
   } catch {
-    return { "outputs": [{ "type": _0x194afe(217), "content": _0x194afe(184) }] };
+    return { "outputs": [{ "type": "error", "content": _0x509751(325) }] };
   }
 }
-function cmdSu(_0xb2b1de, _0x1826b4) {
-  const _0x502810 = _0xd391;
-  if (_0x1826b4["isAccountLocked"]) return { "outputs": [{ "type": _0x502810(217), "content": _0x502810(202) }] };
-  const _0x350775 = _0xb2b1de[0] || "";
-  if (_0x350775 === CREDENTIALS["password"]) return { "outputs": [{ "type": "success", "content": _0x502810(224) + _0x1826b4["currentUser"] + _0x502810(172) + _0x1826b4[_0x502810(210)] + "$" }], "suAttempts": 0 };
-  const _0x2db91a = _0x1826b4["suAttempts"] + 1;
-  if (_0x2db91a >= SU_MAX_ATTEMPTS) return appendToFile(_0x502810(227), _0x502810(170) + _0x1826b4["currentUser"] + _0x502810(180)), { "outputs": [{ "type": _0x502810(217), "content": "su: Authentication failure" }, { "type": _0x502810(217), "content": _0x502810(202) }], "suAttempts": _0x2db91a, "isAccountLocked": !![] };
-  return { "outputs": [{ "type": _0x502810(217), "content": _0x502810(140) + (SU_MAX_ATTEMPTS - _0x2db91a) + _0x502810(232) }], "suAttempts": _0x2db91a };
+function cmdSu(_0x38b268, _0xdaedc7) {
+  const _0x9426d4 = _0x4edf47;
+  if (_0xdaedc7[_0x9426d4(300)]) return { "outputs": [{ "type": _0x9426d4(327), "content": _0x9426d4(338) }] };
+  const _0x218eb6 = _0x38b268[0] || "";
+  if (_0x218eb6 === CREDENTIALS[_0x9426d4(326)]) return { "outputs": [{ "type": _0x9426d4(380), "content": "Password:\n" + _0xdaedc7[_0x9426d4(313)] + _0x9426d4(299) + _0xdaedc7[_0x9426d4(289)] + "$" }], "suAttempts": 0 };
+  const _0x44a2cf = _0xdaedc7[_0x9426d4(351)] + 1;
+  if (_0x44a2cf >= SU_MAX_ATTEMPTS) return appendToFile(_0x9426d4(361), "[LOCKED] Authentication failure for user " + _0xdaedc7[_0x9426d4(313)] + _0x9426d4(378)), { "outputs": [{ "type": _0x9426d4(327), "content": "su: Authentication failure" }, { "type": "error", "content": _0x9426d4(338) }], "suAttempts": _0x44a2cf, "isAccountLocked": !![] };
+  return { "outputs": [{ "type": "error", "content": _0x9426d4(298) + (SU_MAX_ATTEMPTS - _0x44a2cf) + _0x9426d4(321) }], "suAttempts": _0x44a2cf };
 }
-function cmdRm(_0xfad831, _0x25b707) {
-  const _0x1602a3 = _0xd391;
-  let _0x3f3483 = _0xfad831[_0x1602a3(193)]("-f") || _0xfad831[_0x1602a3(193)](_0x1602a3(167)), _0x5d1e8b = _0xfad831[_0x1602a3(193)]("-r") || _0xfad831[_0x1602a3(193)](_0x1602a3(167)), _0xe9789 = _0xfad831[_0x1602a3(219)]((_0x31c70b) => !_0x31c70b["startsWith"]("-"));
-  for (const _0x19d407 of _0xfad831) {
-    if (_0x19d407[_0x1602a3(193)]("f")) _0x3f3483 = !![];
-    if (_0x19d407[_0x1602a3(193)]("r")) _0x5d1e8b = !![];
-    if (!_0xe9789 && _0x19d407["includes"]("/")) {
-      _0xe9789 = _0x19d407[_0x1602a3(139)](/^-[rf]+/, "");
-      if (_0xe9789 === "") _0xe9789 = "/";
+function _0x2eae() {
+  const _0x41d68d = ["file: missing operand", " attempt(s) remaining)", "  1 ", "iris: unknown protocol '", "Available commands:\n  ls          List directory contents\n  ls -a       List all files (including hidden)\n  ls -l       List in long format\n  cd <dir>    Change directory\n  cat <file>  Display file contents\n  strings <file>  Extract printable strings\n  echo <text> Print text\n  pwd         Print working directory\n  whoami      Print current user\n  env         Display environment variables\n  file <file> Determine file type\n  history     Show command history\n  base64 -d <str>  Decode base64 string\n  vigenere <ct> <key>  Decrypt Vigenere cipher\n  su          Switch user\n  rm <file>   Remove files\n  clear       Clear terminal\n  help        Show this help message\n  exit        Exit terminal", "base64: invalid input", "password", "error", "Welcome, ", "rm: missing operand", "5790KQcRNT", "iris://findmeinflowers", "historyIndex", "commandHistory", "The garden gate is open.", "echo", "root", "ls: cannot access '", "Account locked due to too many failed attempts.", "padStart", "file", "[Decrypted with key: ", "cat", "help", "1383215WpMMKn", "length", "Protocol handshake initiated.", "replace", "29960pXqUtj", "directory", "exit", "suAttempts", "cat: missing operand", "31112EcsSmm", "strings", ": command not found", "strings: ", "': Is a directory", "isCrashed", "Jun 15 14:32", "-rw-r--r--", "/var/log/auth.log", "fromCharCode", "setItem", "48ypPtjM", "entries", ": cannot open (No such file or directory)", "whoami", "282065xVThCw", ": No such file or directory", "join", "Usage: base64 -d <string>", 'System halted. Type "reset" to restart.', "slice", "reset", "startsWith", "drwxr-xr-x  2 root root  4096 Jun 15 14:32 ", "push", "\n[NOTE] Remember: the truth is often in plain sight, but not in plain text.\n", "': No such file or directory", "success", "vigenere: key must contain only digits (0-9)", "/home/theforeveriris", "newPath", "toUpperCase", "Hint: Return to the homepage (#) to continue...", "map", "filter", "131368zyWCnT", "cd: ", "base64", ": Not a directory", "system", "currentPath", "env", "iris: missing operand\nUsage: iris <protocol>", "trim", "logout", "284579drylpC", "permissions", "vigenere", "Usage: vigenere <ciphertext> <key>\nExample: vigenere jwib://gnnmnjiwgqoffws 1509", "su: Authentication failure (", "@iris:", "isAccountLocked", "-rf", "owner", "children", "history", "output", "includes", "cat: ", "rm: cannot remove '", "4840uxwrxr", "531auJShZ", "outputs", "6CjROcO", "currentUser", "type", "strings: missing operand", "charCodeAt", "pwd", "isLoggedIn", "drwxr-xr-x  2 theforeveriris theforeveriris  4096 Jun 15 14:32 "];
+  _0x2eae = function() {
+    return _0x41d68d;
+  };
+  return _0x2eae();
+}
+function cmdRm(_0x25e0d8, _0x6c6c60) {
+  const _0x825ca5 = _0x4edf47;
+  let _0x36ba4b = _0x25e0d8[_0x825ca5(306)]("-f") || _0x25e0d8["includes"](_0x825ca5(301)), _0x4f3487 = _0x25e0d8[_0x825ca5(306)]("-r") || _0x25e0d8[_0x825ca5(306)](_0x825ca5(301)), _0x531e46 = _0x25e0d8["find"]((_0x3116ee) => !_0x3116ee[_0x825ca5(375)]("-"));
+  for (const _0x12ffd9 of _0x25e0d8) {
+    if (_0x12ffd9[_0x825ca5(306)]("f")) _0x36ba4b = !![];
+    if (_0x12ffd9[_0x825ca5(306)]("r")) _0x4f3487 = !![];
+    if (!_0x531e46 && _0x12ffd9["includes"]("/")) {
+      _0x531e46 = _0x12ffd9["replace"](/^-[rf]+/, "");
+      if (_0x531e46 === "") _0x531e46 = "/";
     }
   }
-  if (!_0xe9789) return { "outputs": [{ "type": _0x1602a3(217), "content": _0x1602a3(154) }] };
-  if (_0xe9789 === "/" && _0x3f3483 && _0x5d1e8b) return { "outputs": [{ "type": "error", "content": CRASH_OUTPUT }], "isCrashed": !![] };
-  const _0x4bfac3 = resolvePath(_0x25b707[_0x1602a3(210)], _0xe9789), _0x510ee3 = getNode(_0x4bfac3);
-  if (!_0x510ee3) {
-    if (_0x3f3483) return { "outputs": [] };
-    return { "outputs": [{ "type": _0x1602a3(217), "content": _0x1602a3(188) + _0xe9789 + _0x1602a3(153) }] };
+  if (!_0x531e46) return { "outputs": [{ "type": _0x825ca5(327), "content": _0x825ca5(329) }] };
+  if (_0x531e46 === "/" && _0x36ba4b && _0x4f3487) return { "outputs": [{ "type": _0x825ca5(327), "content": CRASH_OUTPUT }], "isCrashed": !![] };
+  const _0x420695 = resolvePath(_0x6c6c60[_0x825ca5(289)], _0x531e46), _0x108338 = getNode(_0x420695);
+  if (!_0x108338) {
+    if (_0x36ba4b) return { "outputs": [] };
+    return { "outputs": [{ "type": "error", "content": _0x825ca5(308) + _0x531e46 + "': No such file or directory" }] };
   }
-  if (_0x510ee3[_0x1602a3(215)] === _0x1602a3(152) && !_0x5d1e8b) return { "outputs": [{ "type": _0x1602a3(217), "content": "rm: cannot remove '" + _0xe9789 + _0x1602a3(211) }] };
+  if (_0x108338[_0x825ca5(314)] === _0x825ca5(349) && !_0x4f3487) return { "outputs": [{ "type": _0x825ca5(327), "content": _0x825ca5(308) + _0x531e46 + _0x825ca5(357) }] };
   return { "outputs": [] };
 }
-function cmdIris(_0x4befce) {
-  const _0x388e55 = _0xd391;
-  if (_0x4befce["length"] === 0) return { "outputs": [{ "type": "error", "content": _0x388e55(165) }] };
-  if (_0x4befce[0] === IRIS_COMMAND_ARG) return localStorage[_0x388e55(161)](IRIS_GATE_KEY, _0x388e55(222)), { "outputs": [{ "type": _0x388e55(177), "content": _0x388e55(221) }, { "type": _0x388e55(177), "content": "" }, { "type": _0x388e55(177), "content": "Protocol handshake initiated." }, { "type": _0x388e55(177), "content": _0x388e55(205) }, { "type": "success", "content": "" }, { "type": _0x388e55(234), "content": _0x388e55(209) }] };
-  return { "outputs": [{ "type": "error", "content": _0x388e55(135) + _0x4befce[0] + "'" }] };
+function cmdIris(_0x20b9ce) {
+  const _0x41e6a8 = _0x4edf47;
+  if (_0x20b9ce[_0x41e6a8(345)] === 0) return { "outputs": [{ "type": _0x41e6a8(327), "content": _0x41e6a8(291) }] };
+  if (_0x20b9ce[0] === IRIS_COMMAND_ARG) return localStorage[_0x41e6a8(363)](IRIS_GATE_KEY, "open"), { "outputs": [{ "type": _0x41e6a8(380), "content": _0x41e6a8(331) }, { "type": _0x41e6a8(380), "content": "" }, { "type": _0x41e6a8(380), "content": _0x41e6a8(346) }, { "type": _0x41e6a8(380), "content": _0x41e6a8(334) }, { "type": _0x41e6a8(380), "content": "" }, { "type": "system", "content": _0x41e6a8(281) }] };
+  return { "outputs": [{ "type": _0x41e6a8(327), "content": _0x41e6a8(323) + _0x20b9ce[0] + "'" }] };
 }
-function cmdVigenere(_0x5c42b2) {
-  const _0x2f83f1 = _0xd391;
-  if (_0x5c42b2[_0x2f83f1(196)] < 2) return { "outputs": [{ "type": _0x2f83f1(217), "content": "Usage: vigenere <ciphertext> <key>\nExample: vigenere jwib://gnnmnjiwgqoffws 1509" }] };
-  const _0x70e170 = _0x5c42b2[0], _0x3022e0 = _0x5c42b2[1];
-  if (!/^\d+$/[_0x2f83f1(197)](_0x3022e0)) return { "outputs": [{ "type": _0x2f83f1(217), "content": _0x2f83f1(175) }] };
-  let _0x527744 = 0, _0x430488 = "";
-  for (const _0x449fb0 of _0x70e170) {
-    if (/[a-zA-Z]/[_0x2f83f1(197)](_0x449fb0)) {
-      const _0x4dc9f9 = parseInt(_0x3022e0[_0x527744 % _0x3022e0[_0x2f83f1(196)]], 10), _0x3ecc34 = _0x449fb0 === _0x449fb0[_0x2f83f1(226)]() ? 65 : 97, _0x12aeee = _0x449fb0["charCodeAt"](0) - _0x3ecc34, _0x37ef08 = (_0x12aeee - _0x4dc9f9 + 26) % 26;
-      _0x430488 += String["fromCharCode"](_0x37ef08 + _0x3ecc34), _0x527744++;
-    } else _0x430488 += _0x449fb0;
+function cmdVigenere(_0x545f62) {
+  const _0x11c850 = _0x4edf47;
+  if (_0x545f62[_0x11c850(345)] < 2) return { "outputs": [{ "type": _0x11c850(327), "content": _0x11c850(297) }] };
+  const _0x36441e = _0x545f62[0], _0x3bce00 = _0x545f62[1];
+  if (!/^\d+$/["test"](_0x3bce00)) return { "outputs": [{ "type": _0x11c850(327), "content": _0x11c850(381) }] };
+  let _0x34c920 = 0, _0x7903eb = "";
+  for (const _0x336fd8 of _0x36441e) {
+    if (/[a-zA-Z]/["test"](_0x336fd8)) {
+      const _0x15dae6 = parseInt(_0x3bce00[_0x34c920 % _0x3bce00[_0x11c850(345)]], 10), _0x48526b = _0x336fd8 === _0x336fd8[_0x11c850(280)]() ? 65 : 97, _0x4d3aea = _0x336fd8[_0x11c850(316)](0) - _0x48526b, _0xef54c9 = (_0x4d3aea - _0x15dae6 + 26) % 26;
+      _0x7903eb += String[_0x11c850(362)](_0xef54c9 + _0x48526b), _0x34c920++;
+    } else _0x7903eb += _0x336fd8;
   }
-  return { "outputs": [{ "type": "output", "content": _0x430488 }, { "type": _0x2f83f1(190), "content": "" }, { "type": _0x2f83f1(234), "content": "[Decrypted with key: " + _0x3022e0 + "]" }] };
+  return { "outputs": [{ "type": _0x11c850(305), "content": _0x7903eb }, { "type": _0x11c850(305), "content": "" }, { "type": _0x11c850(288), "content": _0x11c850(341) + _0x3bce00 + "]" }] };
 }
-(function(_0x22fa74, _0x4d1ce1) {
-  const _0xd941ae = _0x33a4, _0x5ea9b5 = _0x22fa74();
+(function(_0xcffafa, _0x68dd45) {
+  const _0x2c5289 = _0x161b, _0xc648d3 = _0xcffafa();
   while (!![]) {
     try {
-      const _0x11312c = parseInt(_0xd941ae(505)) / 1 * (parseInt(_0xd941ae(520)) / 2) + parseInt(_0xd941ae(512)) / 3 * (-parseInt(_0xd941ae(511)) / 4) + parseInt(_0xd941ae(502)) / 5 + parseInt(_0xd941ae(496)) / 6 + -parseInt(_0xd941ae(510)) / 7 * (-parseInt(_0xd941ae(525)) / 8) + -parseInt(_0xd941ae(506)) / 9 * (parseInt(_0xd941ae(529)) / 10) + -parseInt(_0xd941ae(523)) / 11;
-      if (_0x11312c === _0x4d1ce1) break;
-      else _0x5ea9b5["push"](_0x5ea9b5["shift"]());
-    } catch (_0x301497) {
-      _0x5ea9b5["push"](_0x5ea9b5["shift"]());
+      const _0x4b0883 = -parseInt(_0x2c5289(471)) / 1 * (parseInt(_0x2c5289(496)) / 2) + -parseInt(_0x2c5289(474)) / 3 + parseInt(_0x2c5289(472)) / 4 + parseInt(_0x2c5289(480)) / 5 * (-parseInt(_0x2c5289(469)) / 6) + -parseInt(_0x2c5289(463)) / 7 * (parseInt(_0x2c5289(459)) / 8) + -parseInt(_0x2c5289(458)) / 9 * (-parseInt(_0x2c5289(476)) / 10) + -parseInt(_0x2c5289(497)) / 11 * (-parseInt(_0x2c5289(485)) / 12);
+      if (_0x4b0883 === _0x68dd45) break;
+      else _0xc648d3["push"](_0xc648d3["shift"]());
+    } catch (_0x88b6f5) {
+      _0xc648d3["push"](_0xc648d3["shift"]());
     }
   }
-})(_0x51c6, 498485);
-function _0x33a4(_0x496ba6, _0x2cddd1) {
-  _0x496ba6 = _0x496ba6 - 492;
-  const _0x51c61e = _0x51c6();
-  let _0x33a495 = _0x51c61e[_0x496ba6];
-  return _0x33a495;
-}
-function _0x51c6() {
-  const _0x5263c3 = ["iris virtual terminal v5.15.0-iris", "12567720sNCdpV", "Kernel 5.15.0-iris on an iris virtual machine", "3701624ekUobJ", "text-pink-300", "%7B%22text%22%3A%22Password%3A%22%2C%22textStartLine%22%3A%2268%22%2C%22textStartColumn%22%3A%2244%22%2C%22textEndLine%22%3A%2268%22%2C%22textEndColumn%22%3A%2254%22%2C%22cwd%22%3A%22%2Fhome%2Frunner%2Fwork%2Fme%2Fme%22%7D", "value", "160etpDEr", "text-purple-300/50 mb-4", "bg-transparent text-pink-300 outline-none flex-1 caret-pink-300", "div", "off", "%7B%22text%22%3A%22Kernel%205.15.0-iris%20on%20an%20iris%20virtual%20machine%22%2C%22textStartLine%22%3A%2243%22%2C%22textStartColumn%22%3A%2242%22%2C%22textEndLine%22%3A%2243%22%2C%22textEndColumn%22%3A%2287%22%2C%22cwd%22%3A%22%2Fhome%2Frunner%2Fwork%2Fme%2Fme%22%7D", "login: ", "password", "1451448sChJTV", "input", "flex items-center", "%7B%22cwd%22%3A%22%2Fhome%2Frunner%2Fwork%2Fme%2Fme%22%7D", "Login with username: theforeveriris", "Password: ", "4122235YSEoZv", "text-purple-300/70", "%7B%22text%22%3A%22iris%20virtual%20terminal%20v5.15.0-iris%22%2C%22textStartLine%22%3A%2242%22%2C%22textStartColumn%22%3A%2242%22%2C%22textEndLine%22%3A%2242%22%2C%22textEndColumn%22%3A%2276%22%2C%22cwd%22%3A%22%2Fhome%2Frunner%2Fwork%2Fme%2Fme%22%7D", "214PFXLyc", "130428rsyXcl", "font-mono text-base select-text", "username", "Login incorrect", "14Pvkshu", "8cHxNRW", "1253355oJcoNo", "src/components/TerminalLogin.tsx", "trim", "key", "Enter", "text-purple-300/60", "login", "%7B%22text%22%3A%22login%3A%22%2C%22textStartLine%22%3A%2252%22%2C%22textStartColumn%22%3A%2242%22%2C%22textEndLine%22%3A%2252%22%2C%22textEndColumn%22%3A%2249%22%2C%22cwd%22%3A%22%2Fhome%2Frunner%2Fwork%2Fme%2Fme%22%7D", "6698cDNjCZ", "target"];
-  _0x51c6 = function() {
-    return _0x5263c3;
+})(_0x40ce, 408962);
+function _0x40ce() {
+  const _0x133089 = ["username", "src/components/TerminalLogin.tsx", "text-pink-300", "%7B%22text%22%3A%22Password%3A%22%2C%22textStartLine%22%3A%2268%22%2C%22textStartColumn%22%3A%2244%22%2C%22textEndLine%22%3A%2268%22%2C%22textEndColumn%22%3A%2254%22%2C%22cwd%22%3A%22%2Fhome%2Frunner%2Fwork%2Fme%2Fme%22%7D", "flex items-center", "3054ZizLBs", "Login with username: theforeveriris", "613AGLbRe", "1405016MWAYHG", "value", "556923JPOJwD", "bg-transparent text-pink-300 outline-none flex-1 caret-pink-300", "30njtTSm", "login", "text-red-400 mb-2", "text-purple-300/70", "3285fTgULZ", "iris virtual terminal v5.15.0-iris", "div", "%7B%22text%22%3A%22Login%20with%20username%3A%20theforeveriris%22%2C%22textStartLine%22%3A%2244%22%2C%22textStartColumn%22%3A%2247%22%2C%22textEndLine%22%3A%2244%22%2C%22textEndColumn%22%3A%2282%22%2C%22cwd%22%3A%22%2Fhome%2Frunner%2Fwork%2Fme%2Fme%22%7D", "Password: ", "12DcGhKS", "input", "%7B%22text%22%3A%22iris%20virtual%20terminal%20v5.15.0-iris%22%2C%22textStartLine%22%3A%2242%22%2C%22textStartColumn%22%3A%2242%22%2C%22textEndLine%22%3A%2242%22%2C%22textEndColumn%22%3A%2276%22%2C%22cwd%22%3A%22%2Fhome%2Frunner%2Fwork%2Fme%2Fme%22%7D", "Enter", "span", "Kernel 5.15.0-iris on an iris virtual machine", "%7B%22cwd%22%3A%22%2Fhome%2Frunner%2Fwork%2Fme%2Fme%22%7D", "Login incorrect", "login: ", "password", "font-mono text-base select-text", "292tcoxeb", "7696084uzsHAC", "text-purple-300/60", "target", "%7B%22text%22%3A%22login%3A%22%2C%22textStartLine%22%3A%2252%22%2C%22textStartColumn%22%3A%2242%22%2C%22textEndLine%22%3A%2252%22%2C%22textEndColumn%22%3A%2249%22%2C%22cwd%22%3A%22%2Fhome%2Frunner%2Fwork%2Fme%2Fme%22%7D", "1425492fvgGWf", "18208PmKcfv", "off", "%7B%22text%22%3A%22Kernel%205.15.0-iris%20on%20an%20iris%20virtual%20machine%22%2C%22textStartLine%22%3A%2243%22%2C%22textStartColumn%22%3A%2242%22%2C%22textEndLine%22%3A%2243%22%2C%22textEndColumn%22%3A%2287%22%2C%22cwd%22%3A%22%2Fhome%2Frunner%2Fwork%2Fme%2Fme%22%7D", "trim", "1561SoWpyS"];
+  _0x40ce = function() {
+    return _0x133089;
   };
-  return _0x51c6();
+  return _0x40ce();
+}
+function _0x161b(_0x37b36e, _0x315de3) {
+  _0x37b36e = _0x37b36e - 456;
+  const _0x40ce20 = _0x40ce();
+  let _0x161b60 = _0x40ce20[_0x37b36e];
+  return _0x161b60;
 }
 function TerminalLogin() {
-  const _0x53c14d = _0x33a4, [_0x22eced, _0xe47cd9] = reactExports.useState(""), [_0x15569f, _0xb139ba] = reactExports.useState(""), [_0xee2691, _0x3300f0] = reactExports.useState(_0x53c14d(508)), [_0x9ada7c, _0x15f50f] = reactExports.useState(""), _0x5b5cdf = useTerminalStore((_0x24e019) => _0x24e019[_0x53c14d(518)]), _0xa25dc8 = () => {
-    _0x22eced["trim"]() && _0x3300f0("password");
-  }, _0x106d97 = () => {
-    const _0x337d63 = _0x53c14d, _0x1832f1 = _0x5b5cdf(_0x22eced[_0x337d63(514)](), _0x15569f);
-    !_0x1832f1 && (_0x15f50f(_0x337d63(509)), _0xe47cd9(""), _0xb139ba(""), _0x3300f0(_0x337d63(508)));
-  }, _0x2cc971 = (_0x719f28) => {
-    const _0x2f0a38 = _0x53c14d;
-    _0x719f28[_0x2f0a38(515)] === _0x2f0a38(516) && (_0xee2691 === _0x2f0a38(508) ? _0xa25dc8() : _0x106d97());
+  const _0x34f9c1 = _0x161b, [_0x32777f, _0x3613dc] = reactExports.useState(""), [_0x3da8f7, _0x1ab432] = reactExports.useState(""), [_0x2b3753, _0x27f96e] = reactExports.useState(_0x34f9c1(464)), [_0x516c48, _0x470c06] = reactExports.useState(""), _0x2b4d19 = useTerminalStore((_0x3e7348) => _0x3e7348[_0x34f9c1(477)]), _0x27c383 = () => {
+    const _0x183e94 = _0x34f9c1;
+    _0x32777f[_0x183e94(462)]() && _0x27f96e(_0x183e94(494));
+  }, _0x35f7c6 = () => {
+    const _0x111957 = _0x34f9c1, _0x5957ac = _0x2b4d19(_0x32777f["trim"](), _0x3da8f7);
+    !_0x5957ac && (_0x470c06(_0x111957(492)), _0x3613dc(""), _0x1ab432(""), _0x27f96e(_0x111957(464)));
+  }, _0x2ced04 = (_0x420b63) => {
+    const _0x182abd = _0x34f9c1;
+    _0x420b63["key"] === _0x182abd(488) && (_0x2b3753 === "username" ? _0x27c383() : _0x35f7c6());
   };
-  return jsxRuntimeExports.jsxs(_0x53c14d(532), { "trae-inspector-start-line": "40", "trae-inspector-start-column": "4", "trae-inspector-end-line": "82", "trae-inspector-end-column": "10", "trae-inspector-file-path": _0x53c14d(513), "trae-inspector-static-props": _0x53c14d(499), "className": _0x53c14d(507), "children": [jsxRuntimeExports.jsx(_0x53c14d(532), { "trae-inspector-start-line": "42", "trae-inspector-start-column": "6", "trae-inspector-end-line": "42", "trae-inspector-end-column": "82", "trae-inspector-file-path": _0x53c14d(513), "trae-inspector-static-props": _0x53c14d(504), "className": "text-pink-300 mb-1", "children": _0x53c14d(522) }), jsxRuntimeExports.jsx(_0x53c14d(532), { "trae-inspector-start-line": "43", "trae-inspector-start-column": "6", "trae-inspector-end-line": "43", "trae-inspector-end-column": "93", "trae-inspector-file-path": _0x53c14d(513), "trae-inspector-static-props": _0x53c14d(493), "className": _0x53c14d(517), "children": _0x53c14d(524) }), jsxRuntimeExports.jsx("div", { "trae-inspector-start-line": "44", "trae-inspector-start-column": "6", "trae-inspector-end-line": "44", "trae-inspector-end-column": "88", "trae-inspector-file-path": _0x53c14d(513), "trae-inspector-static-props": "%7B%22text%22%3A%22Login%20with%20username%3A%20theforeveriris%22%2C%22textStartLine%22%3A%2244%22%2C%22textStartColumn%22%3A%2247%22%2C%22textEndLine%22%3A%2244%22%2C%22textEndColumn%22%3A%2282%22%2C%22cwd%22%3A%22%2Fhome%2Frunner%2Fwork%2Fme%2Fme%22%7D", "className": _0x53c14d(530), "children": _0x53c14d(500) }), _0x9ada7c && jsxRuntimeExports.jsx(_0x53c14d(532), { "trae-inspector-start-line": "47", "trae-inspector-start-column": "8", "trae-inspector-end-line": "47", "trae-inspector-end-column": "56", "trae-inspector-file-path": _0x53c14d(513), "trae-inspector-static-props": _0x53c14d(499), "className": "text-red-400 mb-2", "children": _0x9ada7c }), _0xee2691 === _0x53c14d(508) ? jsxRuntimeExports.jsxs(_0x53c14d(532), { "trae-inspector-start-line": "51", "trae-inspector-start-column": "8", "trae-inspector-end-line": "63", "trae-inspector-end-column": "14", "trae-inspector-file-path": _0x53c14d(513), "trae-inspector-static-props": _0x53c14d(499), "className": "flex items-center", "children": [jsxRuntimeExports.jsx("span", { "trae-inspector-start-line": "52", "trae-inspector-start-column": "10", "trae-inspector-end-line": "52", "trae-inspector-end-column": "56", "trae-inspector-file-path": _0x53c14d(513), "trae-inspector-static-props": _0x53c14d(519), "className": _0x53c14d(526), "children": _0x53c14d(494) }), jsxRuntimeExports.jsx(_0x53c14d(497), { "trae-inspector-start-line": "53", "trae-inspector-start-column": "10", "trae-inspector-end-line": "62", "trae-inspector-end-column": "12", "trae-inspector-file-path": "src/components/TerminalLogin.tsx", "trae-inspector-static-props": _0x53c14d(499), "type": "text", "value": _0x22eced, "onChange": (_0x59dd5b) => _0xe47cd9(_0x59dd5b[_0x53c14d(521)]["value"]), "onKeyDown": _0x2cc971, "className": _0x53c14d(531), "autoFocus": !![], "spellCheck": ![], "autoComplete": _0x53c14d(492) })] }) : jsxRuntimeExports.jsxs(jsxRuntimeExports.Fragment, { "children": [jsxRuntimeExports.jsxs(_0x53c14d(532), { "trae-inspector-start-line": "66", "trae-inspector-start-column": "10", "trae-inspector-end-line": "66", "trae-inspector-end-column": "69", "trae-inspector-file-path": "src/components/TerminalLogin.tsx", "trae-inspector-static-props": "%7B%22cwd%22%3A%22%2Fhome%2Frunner%2Fwork%2Fme%2Fme%22%7D", "className": _0x53c14d(503), "children": ["login: ", _0x22eced] }), jsxRuntimeExports.jsxs(_0x53c14d(532), { "trae-inspector-start-line": "67", "trae-inspector-start-column": "10", "trae-inspector-end-line": "79", "trae-inspector-end-column": "16", "trae-inspector-file-path": _0x53c14d(513), "trae-inspector-static-props": _0x53c14d(499), "className": _0x53c14d(498), "children": [jsxRuntimeExports.jsx("span", { "trae-inspector-start-line": "68", "trae-inspector-start-column": "12", "trae-inspector-end-line": "68", "trae-inspector-end-column": "61", "trae-inspector-file-path": "src/components/TerminalLogin.tsx", "trae-inspector-static-props": _0x53c14d(527), "className": "text-pink-300", "children": _0x53c14d(501) }), jsxRuntimeExports.jsx(_0x53c14d(497), { "trae-inspector-start-line": "69", "trae-inspector-start-column": "12", "trae-inspector-end-line": "78", "trae-inspector-end-column": "14", "trae-inspector-file-path": _0x53c14d(513), "trae-inspector-static-props": _0x53c14d(499), "type": _0x53c14d(495), "value": _0x15569f, "onChange": (_0xc325b1) => _0xb139ba(_0xc325b1[_0x53c14d(521)][_0x53c14d(528)]), "onKeyDown": _0x2cc971, "className": _0x53c14d(531), "autoFocus": !![], "spellCheck": ![], "autoComplete": _0x53c14d(492) })] })] })] });
+  return jsxRuntimeExports.jsxs(_0x34f9c1(482), { "trae-inspector-start-line": "40", "trae-inspector-start-column": "4", "trae-inspector-end-line": "82", "trae-inspector-end-column": "10", "trae-inspector-file-path": _0x34f9c1(465), "trae-inspector-static-props": "%7B%22cwd%22%3A%22%2Fhome%2Frunner%2Fwork%2Fme%2Fme%22%7D", "className": _0x34f9c1(495), "children": [jsxRuntimeExports.jsx(_0x34f9c1(482), { "trae-inspector-start-line": "42", "trae-inspector-start-column": "6", "trae-inspector-end-line": "42", "trae-inspector-end-column": "82", "trae-inspector-file-path": _0x34f9c1(465), "trae-inspector-static-props": _0x34f9c1(487), "className": "text-pink-300 mb-1", "children": _0x34f9c1(481) }), jsxRuntimeExports.jsx(_0x34f9c1(482), { "trae-inspector-start-line": "43", "trae-inspector-start-column": "6", "trae-inspector-end-line": "43", "trae-inspector-end-column": "93", "trae-inspector-file-path": _0x34f9c1(465), "trae-inspector-static-props": _0x34f9c1(461), "className": _0x34f9c1(498), "children": _0x34f9c1(490) }), jsxRuntimeExports.jsx(_0x34f9c1(482), { "trae-inspector-start-line": "44", "trae-inspector-start-column": "6", "trae-inspector-end-line": "44", "trae-inspector-end-column": "88", "trae-inspector-file-path": _0x34f9c1(465), "trae-inspector-static-props": _0x34f9c1(483), "className": "text-purple-300/50 mb-4", "children": _0x34f9c1(470) }), _0x516c48 && jsxRuntimeExports.jsx(_0x34f9c1(482), { "trae-inspector-start-line": "47", "trae-inspector-start-column": "8", "trae-inspector-end-line": "47", "trae-inspector-end-column": "56", "trae-inspector-file-path": "src/components/TerminalLogin.tsx", "trae-inspector-static-props": _0x34f9c1(491), "className": _0x34f9c1(478), "children": _0x516c48 }), _0x2b3753 === _0x34f9c1(464) ? jsxRuntimeExports.jsxs(_0x34f9c1(482), { "trae-inspector-start-line": "51", "trae-inspector-start-column": "8", "trae-inspector-end-line": "63", "trae-inspector-end-column": "14", "trae-inspector-file-path": _0x34f9c1(465), "trae-inspector-static-props": _0x34f9c1(491), "className": _0x34f9c1(468), "children": [jsxRuntimeExports.jsx(_0x34f9c1(489), { "trae-inspector-start-line": "52", "trae-inspector-start-column": "10", "trae-inspector-end-line": "52", "trae-inspector-end-column": "56", "trae-inspector-file-path": _0x34f9c1(465), "trae-inspector-static-props": _0x34f9c1(457), "className": _0x34f9c1(466), "children": _0x34f9c1(493) }), jsxRuntimeExports.jsx(_0x34f9c1(486), { "trae-inspector-start-line": "53", "trae-inspector-start-column": "10", "trae-inspector-end-line": "62", "trae-inspector-end-column": "12", "trae-inspector-file-path": _0x34f9c1(465), "trae-inspector-static-props": _0x34f9c1(491), "type": "text", "value": _0x32777f, "onChange": (_0xc4d42c) => _0x3613dc(_0xc4d42c[_0x34f9c1(456)][_0x34f9c1(473)]), "onKeyDown": _0x2ced04, "className": _0x34f9c1(475), "autoFocus": !![], "spellCheck": ![], "autoComplete": _0x34f9c1(460) })] }) : jsxRuntimeExports.jsxs(jsxRuntimeExports.Fragment, { "children": [jsxRuntimeExports.jsxs(_0x34f9c1(482), { "trae-inspector-start-line": "66", "trae-inspector-start-column": "10", "trae-inspector-end-line": "66", "trae-inspector-end-column": "69", "trae-inspector-file-path": "src/components/TerminalLogin.tsx", "trae-inspector-static-props": _0x34f9c1(491), "className": _0x34f9c1(479), "children": [_0x34f9c1(493), _0x32777f] }), jsxRuntimeExports.jsxs(_0x34f9c1(482), { "trae-inspector-start-line": "67", "trae-inspector-start-column": "10", "trae-inspector-end-line": "79", "trae-inspector-end-column": "16", "trae-inspector-file-path": _0x34f9c1(465), "trae-inspector-static-props": _0x34f9c1(491), "className": _0x34f9c1(468), "children": [jsxRuntimeExports.jsx(_0x34f9c1(489), { "trae-inspector-start-line": "68", "trae-inspector-start-column": "12", "trae-inspector-end-line": "68", "trae-inspector-end-column": "61", "trae-inspector-file-path": _0x34f9c1(465), "trae-inspector-static-props": _0x34f9c1(467), "className": _0x34f9c1(466), "children": _0x34f9c1(484) }), jsxRuntimeExports.jsx("input", { "trae-inspector-start-line": "69", "trae-inspector-start-column": "12", "trae-inspector-end-line": "78", "trae-inspector-end-column": "14", "trae-inspector-file-path": "src/components/TerminalLogin.tsx", "trae-inspector-static-props": _0x34f9c1(491), "type": "password", "value": _0x3da8f7, "onChange": (_0x323f74) => _0x1ab432(_0x323f74[_0x34f9c1(456)]["value"]), "onKeyDown": _0x2ced04, "className": _0x34f9c1(475), "autoFocus": !![], "spellCheck": ![], "autoComplete": _0x34f9c1(460) })] })] })] });
 }
-(function(_0x5b935d, _0x5ada79) {
-  const _0x1e8804 = _0x545d, _0x2448e4 = _0x5b935d();
+(function(_0x20f8d0, _0x2a3037) {
+  const _0x102c1c = _0x444c, _0x225645 = _0x20f8d0();
   while (!![]) {
     try {
-      const _0x57abdc = parseInt(_0x1e8804(263)) / 1 + -parseInt(_0x1e8804(291)) / 2 * (parseInt(_0x1e8804(254)) / 3) + -parseInt(_0x1e8804(295)) / 4 + parseInt(_0x1e8804(303)) / 5 + parseInt(_0x1e8804(265)) / 6 + -parseInt(_0x1e8804(266)) / 7 + parseInt(_0x1e8804(283)) / 8;
-      if (_0x57abdc === _0x5ada79) break;
-      else _0x2448e4["push"](_0x2448e4["shift"]());
-    } catch (_0x48077d) {
-      _0x2448e4["push"](_0x2448e4["shift"]());
+      const _0x394c8d = parseInt(_0x102c1c(366)) / 1 * (parseInt(_0x102c1c(323)) / 2) + parseInt(_0x102c1c(340)) / 3 * (parseInt(_0x102c1c(349)) / 4) + -parseInt(_0x102c1c(330)) / 5 * (parseInt(_0x102c1c(329)) / 6) + parseInt(_0x102c1c(320)) / 7 + parseInt(_0x102c1c(298)) / 8 * (-parseInt(_0x102c1c(346)) / 9) + parseInt(_0x102c1c(355)) / 10 * (-parseInt(_0x102c1c(352)) / 11) + -parseInt(_0x102c1c(327)) / 12 * (parseInt(_0x102c1c(300)) / 13);
+      if (_0x394c8d === _0x2a3037) break;
+      else _0x225645["push"](_0x225645["shift"]());
+    } catch (_0x234a04) {
+      _0x225645["push"](_0x225645["shift"]());
     }
   }
-})(_0x86b9, 683154);
-function _0x545d(_0x530831, _0x597421) {
-  _0x530831 = _0x530831 - 234;
-  const _0x86b999 = _0x86b9();
-  let _0x545d7b = _0x86b999[_0x530831];
-  return _0x545d7b;
+})(_0xbc3d, 436681);
+function _0x444c(_0x48ca09, _0x361528) {
+  _0x48ca09 = _0x48ca09 - 296;
+  const _0xbc3df1 = _0xbc3d();
+  let _0x444c69 = _0xbc3df1[_0x48ca09];
+  return _0x444c69;
 }
-function _0x86b9() {
-  const _0x491555 = ["146", "success", "target", "344394CZYiIR", "Password: ", "min-h-screen bg-[#0c0c0c] p-4 font-mono text-base cursor-text select-text", "115", "4057020IGoags", "120", "down", "span", "150", "clear", "ArrowUp", "ctrlKey", "3602625ekKYEO", "type", "password", "bg-transparent text-pink-300 outline-none flex-1 caret-pink-300", "output", "p-4 h-screen overflow-y-auto font-mono text-base relative z-10", "content", "183", "getSelection", "map", "175", "src/components/Terminal.tsx", "Enter", "159", "text", "%7B%22cwd%22%3A%22%2Fhome%2Frunner%2Fwork%2Fme%2Fme%22%7D", "preventDefault", "text-pink-300", "scrollTop", "scrollHeight", "value", "text-purple-300", "current", "3qEyCla", "text-yellow-400", "error", "flex items-center mt-0.5", "pointer-events-none absolute inset-0 bg-[repeating-linear-gradient(0deg,transparent,transparent_2px,rgba(0,255,0,0.015)_2px,rgba(0,255,0,0.015)_4px)]", "key", "toString", "su ", "off", "886279ngxOVR", "system", "6850794dvBxJF", "6437935FTbzit", "133", "193", "182", "@iris:", "text-red-400 shrink-0", "165", "trim", "warning", "div", "text-red-400", "178", "input", "130", "139", "ArrowDown", "192", "325664UhSOoO", "min-h-screen bg-[#0c0c0c] relative cursor-text select-text", "root@panic:~#", "%7B%22text%22%3A%22Password%3A%22%2C%22textStartLine%22%3A%22149%22%2C%22textStartColumn%22%3A%2248%22%2C%22textEndLine%22%3A%22149%22%2C%22textEndColumn%22%3A%2258%22%2C%22cwd%22%3A%22%2Fhome%2Frunner%2Fwork%2Fme%2Fme%22%7D", "%7B%22text%22%3A%22root%40panic%3A~%23%22%2C%22textStartLine%22%3A%22182%22%2C%22textStartColumn%22%3A%2252%22%2C%22textEndLine%22%3A%22182%22%2C%22textEndColumn%22%3A%2265%22%2C%22cwd%22%3A%22%2Fhome%2Frunner%2Fwork%2Fme%2Fme%22%7D"];
-  _0x86b9 = function() {
-    return _0x491555;
+function _0xbc3d() {
+  const _0xfb0f7 = ["183", "%7B%22cwd%22%3A%22%2Fhome%2Frunner%2Fwork%2Fme%2Fme%22%7D", "163", "150", "141", "1744515XRRKaO", "key", "Password: ", "17236sUFhwm", "input", "text-red-400", "33UVldPI", "content", "115", "375380hjrZiG", "focus", "current", "192", "value", "target", "span", "text", "reset", "root@panic:~#", "120", "83411sDVMyZ", "preventDefault", "139", "125", "scrollHeight", "error", "193", "175", "8ztoaUG", "output", "11354434xXtHQM", "text-pink-200", "Enter", "@iris:", "src/components/Terminal.tsx", "146", "bg-transparent text-pink-300 outline-none flex-1 ml-1 caret-pink-300", "bg-transparent text-pink-300 outline-none flex-1 caret-pink-300", "div", "182", "map", "whitespace-pre-wrap break-all ", "warning", "195", "166", "flex items-center mt-0.5", "system", "ctrlKey", "getSelection", "149", "3482101IydDMi", "bg-transparent text-red-400 outline-none flex-1 ml-1 caret-red-400", "text-pink-300", "20jEUSqB", "196", "ArrowUp", "%7B%22text%22%3A%22Password%3A%22%2C%22textStartLine%22%3A%22149%22%2C%22textStartColumn%22%3A%2248%22%2C%22textEndLine%22%3A%22149%22%2C%22textEndColumn%22%3A%2258%22%2C%22cwd%22%3A%22%2Fhome%2Frunner%2Fwork%2Fme%2Fme%22%7D", "12PqxMoV", "pointer-events-none absolute inset-0 bg-[repeating-linear-gradient(0deg,transparent,transparent_2px,rgba(0,255,0,0.015)_2px,rgba(0,255,0,0.015)_4px)]", "539328USwLgL", "5nePgkn", "success", "off", "clear", "toString", "password", "min-h-screen bg-[#0c0c0c] p-4 font-mono text-base cursor-text select-text", "su ", "down", "text-purple-300", "261gMQJlT"];
+  _0xbc3d = function() {
+    return _0xfb0f7;
   };
-  return _0x86b9();
+  return _0xbc3d();
 }
 function Terminal() {
-  const _0x1e35df = _0x545d, { isLoggedIn: _0x4e4c0d, currentUser: _0x4bd33a, currentPath: _0x19207d, outputs: _0x259109, isCrashed: _0x5f3b10, executeCommand: _0x1e1199, clearOutputs: _0x2b2d87, navigateHistory: _0xeee100, resetCrash: _0x51947a } = useTerminalStore(), [_0x3ee748, _0x42d4e9] = reactExports.useState(""), [_0x40491b, _0x57cb54] = reactExports.useState(![]), _0x20f14b = reactExports.useRef(null), _0xdbf180 = reactExports.useRef(null);
+  const _0x5427cf = _0x444c, { isLoggedIn: _0x1b1ab8, currentUser: _0xb19d6b, currentPath: _0x595a33, outputs: _0xb1c8d8, isCrashed: _0x276a3b, executeCommand: _0x44c6f3, clearOutputs: _0x23628d, navigateHistory: _0x1c547f, resetCrash: _0x158ea6 } = useTerminalStore(), [_0x42af52, _0x325aee] = reactExports.useState(""), [_0x18ccd0, _0x3944a4] = reactExports.useState(![]), _0x32aa8c = reactExports.useRef(null), _0x4471d8 = reactExports.useRef(null);
   reactExports.useEffect(() => {
-    const _0x159a54 = _0x545d;
-    _0x20f14b[_0x159a54(253)] && (_0x20f14b[_0x159a54(253)][_0x159a54(249)] = _0x20f14b[_0x159a54(253)][_0x159a54(250)]);
-  }, [_0x259109]), reactExports.useEffect(() => {
-    const _0x375a03 = () => {
-      const _0x5c8bc2 = _0x545d;
-      _0xdbf180[_0x5c8bc2(253)] && _0xdbf180[_0x5c8bc2(253)]["focus"]();
+    const _0x28d697 = _0x444c;
+    _0x32aa8c["current"] && (_0x32aa8c[_0x28d697(357)]["scrollTop"] = _0x32aa8c[_0x28d697(357)][_0x28d697(370)]);
+  }, [_0xb1c8d8]), reactExports.useEffect(() => {
+    const _0x16e015 = () => {
+      const _0x567e33 = _0x444c;
+      _0x4471d8[_0x567e33(357)] && _0x4471d8["current"]["focus"]();
     };
-    _0x375a03();
-    const _0x104970 = setTimeout(_0x375a03, 100);
-    return () => clearTimeout(_0x104970);
-  }, [_0x4e4c0d, _0x259109]);
-  const _0x635b3f = reactExports.useCallback((_0x40c267) => {
-    const _0x48d8b1 = _0x545d;
-    if (_0x40c267[_0x48d8b1(259)] === _0x48d8b1(243)) {
-      const _0x1eb1af = _0x3ee748[_0x48d8b1(273)]();
-      _0x42d4e9("");
-      if (_0x1eb1af === "su" && !_0x5f3b10) {
-        _0x57cb54(!![]), _0x1e1199(_0x1eb1af);
+    _0x16e015();
+    const _0xa80d14 = setTimeout(_0x16e015, 100);
+    return () => clearTimeout(_0xa80d14);
+  }, [_0x1b1ab8, _0xb1c8d8]);
+  const _0x4022e8 = reactExports.useCallback((_0x29eb5f) => {
+    const _0x2ad31f = _0x444c;
+    if (_0x29eb5f[_0x2ad31f(347)] === _0x2ad31f(302)) {
+      const _0x18a4b3 = _0x42af52["trim"]();
+      _0x325aee("");
+      if (_0x18a4b3 === "su" && !_0x276a3b) {
+        _0x3944a4(!![]), _0x44c6f3(_0x18a4b3);
         return;
       }
-      if (_0x40491b) {
-        _0x57cb54(![]), _0x1e1199(_0x48d8b1(261) + _0x1eb1af);
+      if (_0x18ccd0) {
+        _0x3944a4(![]), _0x44c6f3(_0x2ad31f(337) + _0x18a4b3);
         return;
       }
-      if (_0x1eb1af === _0x48d8b1(300)) {
-        _0x2b2d87();
+      if (_0x18a4b3 === _0x2ad31f(333)) {
+        _0x23628d();
         return;
       }
-      if (_0x1eb1af === "reset" && _0x5f3b10) {
-        _0x51947a();
+      if (_0x18a4b3 === _0x2ad31f(363) && _0x276a3b) {
+        _0x158ea6();
         return;
       }
-      _0x1e1199(_0x1eb1af);
+      _0x44c6f3(_0x18a4b3);
     } else {
-      if (_0x40c267[_0x48d8b1(259)] === _0x48d8b1(301)) {
-        _0x40c267["preventDefault"]();
-        const _0x1718a0 = _0xeee100("up");
-        _0x42d4e9(_0x1718a0);
+      if (_0x29eb5f[_0x2ad31f(347)] === _0x2ad31f(325)) {
+        _0x29eb5f[_0x2ad31f(367)]();
+        const _0x3e382f = _0x1c547f("up");
+        _0x325aee(_0x3e382f);
       } else {
-        if (_0x40c267[_0x48d8b1(259)] === _0x48d8b1(281)) {
-          _0x40c267[_0x48d8b1(247)]();
-          const _0x14fa6c = _0xeee100(_0x48d8b1(297));
-          _0x42d4e9(_0x14fa6c);
-        } else _0x40c267[_0x48d8b1(259)] === "l" && _0x40c267[_0x48d8b1(302)] && (_0x40c267["preventDefault"](), _0x2b2d87());
+        if (_0x29eb5f["key"] === "ArrowDown") {
+          _0x29eb5f["preventDefault"]();
+          const _0x390b1a = _0x1c547f(_0x2ad31f(338));
+          _0x325aee(_0x390b1a);
+        } else _0x29eb5f["key"] === "l" && _0x29eb5f[_0x2ad31f(317)] && (_0x29eb5f[_0x2ad31f(367)](), _0x23628d());
       }
     }
-  }, [_0x3ee748, _0x40491b, _0x5f3b10, _0x1e1199, _0x2b2d87, _0xeee100, _0x51947a]), _0x5a2c98 = (_0x3c5163) => {
-    const _0x32886a = _0x545d;
-    switch (_0x3c5163[_0x32886a(304)]) {
-      case _0x32886a(278):
-        return _0x32886a(248);
-      case _0x32886a(235):
-        return _0x32886a(252);
-      case _0x32886a(256):
-        return _0x32886a(276);
-      case _0x32886a(289):
+  }, [_0x42af52, _0x18ccd0, _0x276a3b, _0x44c6f3, _0x23628d, _0x1c547f, _0x158ea6]), _0x3c8c86 = (_0x5da1f1) => {
+    const _0x1815fe = _0x444c;
+    switch (_0x5da1f1["type"]) {
+      case "input":
+        return _0x1815fe(322);
+      case _0x1815fe(299):
+        return "text-purple-300";
+      case _0x1815fe(371):
+        return _0x1815fe(351);
+      case _0x1815fe(331):
         return "text-cyan-400";
-      case _0x32886a(274):
-        return _0x32886a(255);
-      case _0x32886a(264):
-        return "text-pink-200";
+      case _0x1815fe(312):
+        return "text-yellow-400";
+      case _0x1815fe(316):
+        return _0x1815fe(301);
       default:
-        return _0x32886a(252);
+        return _0x1815fe(339);
     }
-  }, _0x87421c = () => {
-    const _0x1dc84b = _0x545d, _0x1b7e71 = window[_0x1dc84b(239)]();
-    _0x1b7e71 && _0x1b7e71[_0x1dc84b(260)]()["length"] === 0 && (_0xdbf180[_0x1dc84b(253)] && _0xdbf180[_0x1dc84b(253)]["focus"]());
+  }, _0x380ffa = () => {
+    const _0x1fdc10 = _0x444c, _0xb0599 = window[_0x1fdc10(318)]();
+    _0xb0599 && _0xb0599[_0x1fdc10(334)]()["length"] === 0 && (_0x4471d8[_0x1fdc10(357)] && _0x4471d8["current"][_0x1fdc10(356)]());
   };
-  if (!_0x4e4c0d) return jsxRuntimeExports.jsx(_0x1e35df(275), { "trae-inspector-start-line": _0x1e35df(294), "trae-inspector-start-column": "6", "trae-inspector-end-line": _0x1e35df(296), "trae-inspector-end-column": "12", "trae-inspector-file-path": _0x1e35df(242), "trae-inspector-static-props": "%7B%22cwd%22%3A%22%2Fhome%2Frunner%2Fwork%2Fme%2Fme%22%7D", "className": _0x1e35df(293), "onClick": _0x87421c, "children": jsxRuntimeExports.jsx(TerminalLogin, {}) });
-  return jsxRuntimeExports.jsxs(_0x1e35df(275), { "trae-inspector-start-line": "125", "trae-inspector-start-column": "4", "trae-inspector-end-line": "196", "trae-inspector-end-column": "10", "trae-inspector-file-path": "src/components/Terminal.tsx", "trae-inspector-static-props": _0x1e35df(246), "className": _0x1e35df(284), "onClick": _0x87421c, "children": [jsxRuntimeExports.jsx(_0x1e35df(275), { "trae-inspector-start-line": _0x1e35df(279), "trae-inspector-start-column": "6", "trae-inspector-end-line": _0x1e35df(279), "trae-inspector-end-column": "175", "trae-inspector-file-path": _0x1e35df(242), "trae-inspector-static-props": _0x1e35df(246), "className": _0x1e35df(258) }), jsxRuntimeExports.jsxs(_0x1e35df(275), { "trae-inspector-start-line": _0x1e35df(267), "trae-inspector-start-column": "6", "trae-inspector-end-line": "195", "trae-inspector-end-column": "12", "trae-inspector-file-path": _0x1e35df(242), "trae-inspector-static-props": _0x1e35df(246), "ref": _0x20f14b, "className": _0x1e35df(236), "children": [_0x259109[_0x1e35df(240)]((_0x446d21, _0x768be0) => jsxRuntimeExports.jsx("div", { "trae-inspector-start-line": _0x1e35df(280), "trae-inspector-start-column": "10", "trae-inspector-end-line": "141", "trae-inspector-end-column": "16", "trae-inspector-file-path": _0x1e35df(242), "trae-inspector-static-props": "%7B%22cwd%22%3A%22%2Fhome%2Frunner%2Fwork%2Fme%2Fme%22%7D", "className": "whitespace-pre-wrap break-all " + _0x5a2c98(_0x446d21), "children": _0x446d21[_0x1e35df(237)] }, _0x768be0)), !_0x5f3b10 ? jsxRuntimeExports.jsx(_0x1e35df(275), { "trae-inspector-start-line": _0x1e35df(288), "trae-inspector-start-column": "10", "trae-inspector-end-line": _0x1e35df(277), "trae-inspector-end-column": "16", "trae-inspector-file-path": "src/components/Terminal.tsx", "trae-inspector-static-props": _0x1e35df(246), "className": "flex items-center mt-0.5", "children": _0x40491b ? jsxRuntimeExports.jsxs(jsxRuntimeExports.Fragment, { "children": [jsxRuntimeExports.jsx("span", { "trae-inspector-start-line": "149", "trae-inspector-start-column": "16", "trae-inspector-end-line": "149", "trae-inspector-end-column": "65", "trae-inspector-file-path": _0x1e35df(242), "trae-inspector-static-props": _0x1e35df(286), "className": "text-pink-300", "children": _0x1e35df(292) }), jsxRuntimeExports.jsx(_0x1e35df(278), { "trae-inspector-start-line": _0x1e35df(299), "trae-inspector-start-column": "16", "trae-inspector-end-line": _0x1e35df(244), "trae-inspector-end-column": "18", "trae-inspector-file-path": "src/components/Terminal.tsx", "trae-inspector-static-props": _0x1e35df(246), "ref": _0xdbf180, "type": _0x1e35df(305), "value": _0x3ee748, "onChange": (_0x1ab92b) => _0x42d4e9(_0x1ab92b["target"][_0x1e35df(251)]), "onKeyDown": _0x635b3f, "className": _0x1e35df(234), "spellCheck": ![], "autoComplete": _0x1e35df(262) })] }) : jsxRuntimeExports.jsxs(jsxRuntimeExports.Fragment, { "children": [jsxRuntimeExports.jsxs(_0x1e35df(298), { "trae-inspector-start-line": "163", "trae-inspector-start-column": "16", "trae-inspector-end-line": _0x1e35df(272), "trae-inspector-end-column": "23", "trae-inspector-file-path": "src/components/Terminal.tsx", "trae-inspector-static-props": _0x1e35df(246), "className": "text-pink-300 shrink-0", "children": [_0x4bd33a, _0x1e35df(270), _0x19207d, "$"] }), jsxRuntimeExports.jsx("input", { "trae-inspector-start-line": "166", "trae-inspector-start-column": "16", "trae-inspector-end-line": _0x1e35df(241), "trae-inspector-end-column": "18", "trae-inspector-file-path": "src/components/Terminal.tsx", "trae-inspector-static-props": _0x1e35df(246), "ref": _0xdbf180, "type": _0x1e35df(245), "value": _0x3ee748, "onChange": (_0xdb3260) => _0x42d4e9(_0xdb3260[_0x1e35df(290)][_0x1e35df(251)]), "onKeyDown": _0x635b3f, "className": "bg-transparent text-pink-300 outline-none flex-1 ml-1 caret-pink-300", "spellCheck": ![], "autoComplete": _0x1e35df(262) })] }) }) : jsxRuntimeExports.jsxs("div", { "trae-inspector-start-line": "181", "trae-inspector-start-column": "10", "trae-inspector-end-line": _0x1e35df(268), "trae-inspector-end-column": "16", "trae-inspector-file-path": _0x1e35df(242), "trae-inspector-static-props": _0x1e35df(246), "className": _0x1e35df(257), "children": [jsxRuntimeExports.jsx(_0x1e35df(298), { "trae-inspector-start-line": _0x1e35df(269), "trae-inspector-start-column": "12", "trae-inspector-end-line": _0x1e35df(269), "trae-inspector-end-column": "72", "trae-inspector-file-path": _0x1e35df(242), "trae-inspector-static-props": _0x1e35df(287), "className": _0x1e35df(271), "children": _0x1e35df(285) }), jsxRuntimeExports.jsx(_0x1e35df(278), { "trae-inspector-start-line": _0x1e35df(238), "trae-inspector-start-column": "12", "trae-inspector-end-line": _0x1e35df(282), "trae-inspector-end-column": "14", "trae-inspector-file-path": _0x1e35df(242), "trae-inspector-static-props": _0x1e35df(246), "ref": _0xdbf180, "type": _0x1e35df(245), "value": _0x3ee748, "onChange": (_0x26fbd0) => _0x42d4e9(_0x26fbd0[_0x1e35df(290)][_0x1e35df(251)]), "onKeyDown": _0x635b3f, "className": "bg-transparent text-red-400 outline-none flex-1 ml-1 caret-red-400", "spellCheck": ![], "autoComplete": "off" })] })] })] });
+  if (!_0x1b1ab8) return jsxRuntimeExports.jsx(_0x5427cf(308), { "trae-inspector-start-line": _0x5427cf(354), "trae-inspector-start-column": "6", "trae-inspector-end-line": _0x5427cf(365), "trae-inspector-end-column": "12", "trae-inspector-file-path": _0x5427cf(304), "trae-inspector-static-props": _0x5427cf(342), "className": _0x5427cf(336), "onClick": _0x380ffa, "children": jsxRuntimeExports.jsx(TerminalLogin, {}) });
+  return jsxRuntimeExports.jsxs(_0x5427cf(308), { "trae-inspector-start-line": _0x5427cf(369), "trae-inspector-start-column": "4", "trae-inspector-end-line": _0x5427cf(324), "trae-inspector-end-column": "10", "trae-inspector-file-path": _0x5427cf(304), "trae-inspector-static-props": _0x5427cf(342), "className": "min-h-screen bg-[#0c0c0c] relative cursor-text select-text", "onClick": _0x380ffa, "children": [jsxRuntimeExports.jsx(_0x5427cf(308), { "trae-inspector-start-line": "130", "trae-inspector-start-column": "6", "trae-inspector-end-line": "130", "trae-inspector-end-column": "175", "trae-inspector-file-path": _0x5427cf(304), "trae-inspector-static-props": _0x5427cf(342), "className": _0x5427cf(328) }), jsxRuntimeExports.jsxs("div", { "trae-inspector-start-line": "133", "trae-inspector-start-column": "6", "trae-inspector-end-line": _0x5427cf(313), "trae-inspector-end-column": "12", "trae-inspector-file-path": _0x5427cf(304), "trae-inspector-static-props": _0x5427cf(342), "ref": _0x32aa8c, "className": "p-4 h-screen overflow-y-auto font-mono text-base relative z-10", "children": [_0xb1c8d8[_0x5427cf(310)]((_0x3aab49, _0x174e76) => jsxRuntimeExports.jsx("div", { "trae-inspector-start-line": _0x5427cf(368), "trae-inspector-start-column": "10", "trae-inspector-end-line": _0x5427cf(345), "trae-inspector-end-column": "16", "trae-inspector-file-path": _0x5427cf(304), "trae-inspector-static-props": "%7B%22cwd%22%3A%22%2Fhome%2Frunner%2Fwork%2Fme%2Fme%22%7D", "className": _0x5427cf(311) + _0x3c8c86(_0x3aab49), "children": _0x3aab49[_0x5427cf(353)] }, _0x174e76)), !_0x276a3b ? jsxRuntimeExports.jsx(_0x5427cf(308), { "trae-inspector-start-line": _0x5427cf(305), "trae-inspector-start-column": "10", "trae-inspector-end-line": "178", "trae-inspector-end-column": "16", "trae-inspector-file-path": _0x5427cf(304), "trae-inspector-static-props": _0x5427cf(342), "className": "flex items-center mt-0.5", "children": _0x18ccd0 ? jsxRuntimeExports.jsxs(jsxRuntimeExports.Fragment, { "children": [jsxRuntimeExports.jsx(_0x5427cf(361), { "trae-inspector-start-line": "149", "trae-inspector-start-column": "16", "trae-inspector-end-line": _0x5427cf(319), "trae-inspector-end-column": "65", "trae-inspector-file-path": _0x5427cf(304), "trae-inspector-static-props": _0x5427cf(326), "className": _0x5427cf(322), "children": _0x5427cf(348) }), jsxRuntimeExports.jsx(_0x5427cf(350), { "trae-inspector-start-line": _0x5427cf(344), "trae-inspector-start-column": "16", "trae-inspector-end-line": "159", "trae-inspector-end-column": "18", "trae-inspector-file-path": _0x5427cf(304), "trae-inspector-static-props": "%7B%22cwd%22%3A%22%2Fhome%2Frunner%2Fwork%2Fme%2Fme%22%7D", "ref": _0x4471d8, "type": _0x5427cf(335), "value": _0x42af52, "onChange": (_0x24b5a9) => _0x325aee(_0x24b5a9[_0x5427cf(360)]["value"]), "onKeyDown": _0x4022e8, "className": _0x5427cf(307), "spellCheck": ![], "autoComplete": "off" })] }) : jsxRuntimeExports.jsxs(jsxRuntimeExports.Fragment, { "children": [jsxRuntimeExports.jsxs(_0x5427cf(361), { "trae-inspector-start-line": _0x5427cf(343), "trae-inspector-start-column": "16", "trae-inspector-end-line": "165", "trae-inspector-end-column": "23", "trae-inspector-file-path": _0x5427cf(304), "trae-inspector-static-props": _0x5427cf(342), "className": "text-pink-300 shrink-0", "children": [_0xb19d6b, _0x5427cf(303), _0x595a33, "$"] }), jsxRuntimeExports.jsx("input", { "trae-inspector-start-line": _0x5427cf(314), "trae-inspector-start-column": "16", "trae-inspector-end-line": _0x5427cf(297), "trae-inspector-end-column": "18", "trae-inspector-file-path": "src/components/Terminal.tsx", "trae-inspector-static-props": "%7B%22cwd%22%3A%22%2Fhome%2Frunner%2Fwork%2Fme%2Fme%22%7D", "ref": _0x4471d8, "type": _0x5427cf(362), "value": _0x42af52, "onChange": (_0x360026) => _0x325aee(_0x360026["target"]["value"]), "onKeyDown": _0x4022e8, "className": _0x5427cf(306), "spellCheck": ![], "autoComplete": _0x5427cf(332) })] }) }) : jsxRuntimeExports.jsxs(_0x5427cf(308), { "trae-inspector-start-line": "181", "trae-inspector-start-column": "10", "trae-inspector-end-line": _0x5427cf(296), "trae-inspector-end-column": "16", "trae-inspector-file-path": _0x5427cf(304), "trae-inspector-static-props": _0x5427cf(342), "className": _0x5427cf(315), "children": [jsxRuntimeExports.jsx(_0x5427cf(361), { "trae-inspector-start-line": "182", "trae-inspector-start-column": "12", "trae-inspector-end-line": _0x5427cf(309), "trae-inspector-end-column": "72", "trae-inspector-file-path": _0x5427cf(304), "trae-inspector-static-props": "%7B%22text%22%3A%22root%40panic%3A~%23%22%2C%22textStartLine%22%3A%22182%22%2C%22textStartColumn%22%3A%2252%22%2C%22textEndLine%22%3A%22182%22%2C%22textEndColumn%22%3A%2265%22%2C%22cwd%22%3A%22%2Fhome%2Frunner%2Fwork%2Fme%2Fme%22%7D", "className": "text-red-400 shrink-0", "children": _0x5427cf(364) }), jsxRuntimeExports.jsx(_0x5427cf(350), { "trae-inspector-start-line": _0x5427cf(341), "trae-inspector-start-column": "12", "trae-inspector-end-line": _0x5427cf(358), "trae-inspector-end-column": "14", "trae-inspector-file-path": "src/components/Terminal.tsx", "trae-inspector-static-props": _0x5427cf(342), "ref": _0x4471d8, "type": "text", "value": _0x42af52, "onChange": (_0x5e95bf) => _0x325aee(_0x5e95bf[_0x5427cf(360)][_0x5427cf(359)]), "onKeyDown": _0x4022e8, "className": _0x5427cf(321), "spellCheck": ![], "autoComplete": _0x5427cf(332) })] })] })] });
 }
-function _0x5483(_0x33b83f, _0x5030a6) {
-  _0x33b83f = _0x33b83f - 206;
-  var _0x2a2171 = _0x2a21();
-  var _0x548310 = _0x2a2171[_0x33b83f];
-  return _0x548310;
+function _0x2f15() {
+  var _0x546822 = ["345475nMErmH", "9SXkYJi", "1444612XPPzRG", "108857HmAsnU", "264iwTyaM", "5809496TaRUjv", "558879XKqvMG", "32143420embsvd", "2354160gTBbNx", "/terminal", "14cMvxUi"];
+  _0x2f15 = function() {
+    return _0x546822;
+  };
+  return _0x2f15();
 }
-(function(_0x2fbdbf, _0x1eac4c) {
-  var _0x249463 = _0x5483, _0x318b20 = _0x2fbdbf();
+(function(_0x100505, _0x3039c4) {
+  var _0x242f53 = _0x545b, _0x5aca5a = _0x100505();
   while (!![]) {
     try {
-      var _0xc277d4 = parseInt(_0x249463(211)) / 1 * (parseInt(_0x249463(210)) / 2) + parseInt(_0x249463(216)) / 3 + -parseInt(_0x249463(209)) / 4 + parseInt(_0x249463(206)) / 5 + parseInt(_0x249463(214)) / 6 * (parseInt(_0x249463(217)) / 7) + -parseInt(_0x249463(208)) / 8 * (-parseInt(_0x249463(213)) / 9) + -parseInt(_0x249463(207)) / 10 * (parseInt(_0x249463(215)) / 11);
-      if (_0xc277d4 === _0x1eac4c) break;
-      else _0x318b20["push"](_0x318b20["shift"]());
-    } catch (_0x5e4616) {
-      _0x318b20["push"](_0x318b20["shift"]());
+      var _0x3c06de = -parseInt(_0x242f53(274)) / 1 + -parseInt(_0x242f53(273)) / 2 * (parseInt(_0x242f53(280)) / 3) + -parseInt(_0x242f53(276)) / 4 + -parseInt(_0x242f53(282)) / 5 + -parseInt(_0x242f53(278)) / 6 * (-parseInt(_0x242f53(277)) / 7) + -parseInt(_0x242f53(279)) / 8 + -parseInt(_0x242f53(275)) / 9 * (-parseInt(_0x242f53(281)) / 10);
+      if (_0x3c06de === _0x3039c4) break;
+      else _0x5aca5a["push"](_0x5aca5a["shift"]());
+    } catch (_0x61c27f) {
+      _0x5aca5a["push"](_0x5aca5a["shift"]());
     }
   }
-})(_0x2a21, 871252);
-function _0x2a21() {
-  var _0x282c78 = ["18002567RhHpQS", "2356659kJAIqN", "9139963tCrijx", "2952330ylCjxY", "20vMPeDT", "1277224rOhsGD", "2061984ZPytrP", "34WeiteB", "22452fGBzYW", "/terminal", "90Gliogz", "6dotpjE"];
-  _0x2a21 = function() {
-    return _0x282c78;
-  };
-  return _0x2a21();
+})(_0x2f15, 690888);
+function _0x545b(_0x4d4bb7, _0xb8623a) {
+  _0x4d4bb7 = _0x4d4bb7 - 273;
+  var _0x2f1580 = _0x2f15();
+  var _0x545bc4 = _0x2f1580[_0x4d4bb7];
+  return _0x545bc4;
 }
 function App() {
-  var _0x15d9d9 = _0x5483;
-  return jsxRuntimeExports.jsx(HashRouter, { "children": jsxRuntimeExports.jsxs(Routes, { "children": [jsxRuntimeExports.jsx(Route, { "path": "/", "element": jsxRuntimeExports.jsx(HomePage, {}) }), jsxRuntimeExports.jsx(Route, { "path": _0x15d9d9(212), "element": jsxRuntimeExports.jsx(Terminal, {}) })] }) });
+  var _0x31be6a = _0x545b;
+  return jsxRuntimeExports.jsx(HashRouter, { "children": jsxRuntimeExports.jsxs(Routes, { "children": [jsxRuntimeExports.jsx(Route, { "path": "/", "element": jsxRuntimeExports.jsx(HomePage, {}) }), jsxRuntimeExports.jsx(Route, { "path": _0x31be6a(283), "element": jsxRuntimeExports.jsx(Terminal, {}) })] }) });
 }
-var _0x2bf4a0 = _0x1051;
-function _0x1051(_0x16acfa, _0x21d81a) {
-  _0x16acfa = _0x16acfa - 239;
-  var _0x19a4ed = _0x19a4();
-  var _0x105177 = _0x19a4ed[_0x16acfa];
-  return _0x105177;
-}
-(function(_0x2a81c2, _0x23889e) {
-  var _0x4d78ad = _0x1051, _0x1e0552 = _0x2a81c2();
+var _0x786801 = _0x2d95;
+(function(_0x260c91, _0x150594) {
+  var _0x3727e1 = _0x2d95, _0x34581c = _0x260c91();
   while (!![]) {
     try {
-      var _0x3aa8df = parseInt(_0x4d78ad(239)) / 1 + parseInt(_0x4d78ad(243)) / 2 + parseInt(_0x4d78ad(248)) / 3 * (-parseInt(_0x4d78ad(246)) / 4) + -parseInt(_0x4d78ad(240)) / 5 + parseInt(_0x4d78ad(245)) / 6 * (parseInt(_0x4d78ad(249)) / 7) + parseInt(_0x4d78ad(244)) / 8 + -parseInt(_0x4d78ad(242)) / 9 * (-parseInt(_0x4d78ad(251)) / 10);
-      if (_0x3aa8df === _0x23889e) break;
-      else _0x1e0552["push"](_0x1e0552["shift"]());
-    } catch (_0x5d8451) {
-      _0x1e0552["push"](_0x1e0552["shift"]());
+      var _0x446b27 = -parseInt(_0x3727e1(354)) / 1 * (parseInt(_0x3727e1(345)) / 2) + -parseInt(_0x3727e1(346)) / 3 * (parseInt(_0x3727e1(356)) / 4) + -parseInt(_0x3727e1(355)) / 5 + parseInt(_0x3727e1(352)) / 6 * (-parseInt(_0x3727e1(348)) / 7) + parseInt(_0x3727e1(353)) / 8 + parseInt(_0x3727e1(349)) / 9 + -parseInt(_0x3727e1(351)) / 10 * (-parseInt(_0x3727e1(347)) / 11);
+      if (_0x446b27 === _0x150594) break;
+      else _0x34581c["push"](_0x34581c["shift"]());
+    } catch (_0x11ee0b) {
+      _0x34581c["push"](_0x34581c["shift"]());
     }
   }
-})(_0x19a4, 455026);
-function _0x19a4() {
-  var _0xb0d0bd = ["524960xeKgKQ", "4002515pedXbw", "getElementById", "9rapFeu", "800526AiYHjJ", "1118360tmJCNF", "21798PaMVgQ", "2697268VNlPyd", "render", "3ufllXW", "826Cdeyxp", "root", "4361340ZVZiQg"];
-  _0x19a4 = function() {
-    return _0xb0d0bd;
+})(_0x6704, 794203);
+function _0x6704() {
+  var _0x54381d = ["13998jSzcHk", "10915968jwnbvd", "469193YEGyqT", "6502235nPUgUY", "510852IzpdHt", "render", "2OpqbfQ", "9zPOhmK", "13827kgeDUg", "2149unxqEd", "13753584jjBLql", "getElementById", "6130nkKmqK"];
+  _0x6704 = function() {
+    return _0x54381d;
   };
-  return _0x19a4();
+  return _0x6704();
 }
-clientExports.createRoot(document[_0x2bf4a0(241)](_0x2bf4a0(250)))[_0x2bf4a0(247)](jsxRuntimeExports.jsx(reactExports.StrictMode, { "children": jsxRuntimeExports.jsx(App, {}) }));
+function _0x2d95(_0x5d86c7, _0x49c295) {
+  _0x5d86c7 = _0x5d86c7 - 345;
+  var _0x6704a7 = _0x6704();
+  var _0x2d9510 = _0x6704a7[_0x5d86c7];
+  return _0x2d9510;
+}
+clientExports.createRoot(document[_0x786801(350)]("root"))[_0x786801(357)](jsxRuntimeExports.jsx(reactExports.StrictMode, { "children": jsxRuntimeExports.jsx(App, {}) }));
